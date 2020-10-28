@@ -1,6 +1,27 @@
 # idealistaScraper
 Trabajo de la asignatura Tipología y ciclo de vida de los datos 
 
+## Ejecución
+
+Antes de ejecutar la aplicación es necesario descargarse el driver de selenium, para ello hay que ir a la dirección
+https://github.com/mozilla/geckodriver/releases y descargar la última versión disponible para nuestro sistema operativo.
+
+
+Como siguiente paso es necesario instalar las dependencias que tiene el programa, para ello
+desde la linea de comandos se ejecuta:
+
+````python
+pip install -r requirements.txt
+````
+Para realizar el scaping usaremos la siguiente sentencia
+````python
+cd idealista
+export PATH=$PATH:ruta_geckodriver
+python idealistaScrapper.py venta viviendas --zona oviedo-asturias --full True
+#descarga las imagenes
+python images.py 20201028_venta-viviendas_oviedo-asturias.csv
+````
+
 ## Contexto
 Actualmente la compra-venta y alquiler de vivienda es un tema de actualidad, teniendo especial interés
 los precios y la disponibilidad de vivienda en las diferentes zonas de la geografía Española.
