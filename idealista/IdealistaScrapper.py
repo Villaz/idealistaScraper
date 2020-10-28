@@ -3,9 +3,9 @@ from selenium import common
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.common.exceptions import NoSuchElementException
 import pandas as pd
-from idealista.vivienda import Vivienda
-from idealista.map import Map
-from idealista.images import Images
+from vivienda import Vivienda
+from map import Map
+from images import Images
 from datetime import datetime
 import argparse
 
