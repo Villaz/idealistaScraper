@@ -79,3 +79,12 @@ Los atributos que contiene el dataset son:
 
 **url**: URL donde se encuentra la imagen a descargar.
 **code**: Código del inmueble al que pertenece la imagen.
+
+## Representación gráfica
+
+### Dataset Viviendas
+![Dataset vivienda](./doc/vivienda.png)
+
+### Dataset Imagenes
+![Dataset imagenes](./doc/images.png)
+
