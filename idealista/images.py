@@ -6,7 +6,7 @@ import pandas as pd
 import requests
 import shutil
 import pathlib
-
+import sys
 
 class Images(object):
     """
@@ -61,3 +61,7 @@ class Images(object):
                 with open('{0}/{1}'.format(path, image_name), 'wb') as f:
                     result.raw.decode_content = True
                     shutil.copyfileobj(result.raw, f)
+
+
+if __name__ == '__main__':
+    Images.download_images(pd.read_csv(sys.argv[0]))
