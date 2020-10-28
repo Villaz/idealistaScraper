@@ -7,6 +7,8 @@ from idealista.vivienda import Vivienda
 from idealista.map import Map
 from idealista.images import Images
 from datetime import datetime
+import argparse
+
 
 BASE_URL = 'https://www.idealista.com/'
 
@@ -113,7 +115,12 @@ class IdealistaScrapper:
             return vivienda, images
 
 
-
-
-i = IdealistaScrapper('venta-viviendas', 'oviedo-asturias')
-i.process(True)
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='Scrapeo idealista')
+    parser.add_argument('transaccion', help="Tipo de transaccion a buscar", choices=['venta', 'alquiler'])
+    parser.add_argument('tipologia', help='Tipologia a buscar', choices=['viviendas'])
+    parser.add_argument('--zona', help='Zona a buscar', default='oviedo-asturias')
+    parser.add_argument('--full', help='Busqueda superficial o detalle', default=True)
+    args = parser.parse_args()
+    i = IdealistaScrapper('{0}-{1}'.format(args.transaccion, args.tipologia), args.zona)
+    i.process(args.full)
