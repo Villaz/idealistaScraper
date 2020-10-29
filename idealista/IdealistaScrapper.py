@@ -51,7 +51,7 @@ class IdealistaScrapper:
             pagination = driver.find_element_by_class_name('pagination')
             url = pagination.find_element_by_class_name('next').find_element_by_tag_name('a').get_attribute('href')
             driver.quit()
-            #self._scrap(url)
+            self._scrap(url)
         except NoSuchElementException:
             print("Finished")
         finally:
