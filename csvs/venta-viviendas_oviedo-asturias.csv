@@ -1,35 +1,932 @@
 code,link,address,barrio,distrito,ciudad,lat,lon,price,area,has_elevator,floor,exterior,rooms
-91431452,https://www.idealista.com/inmueble/91431452/,Olivares,Barrio Olivares,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3619258,-5.8781634,590000,40,,,,4
-90992307,https://www.idealista.com/inmueble/90992307/,Calle Arzobispo Guisasola,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.357596,-5.841457,209000,116,True,9.0,True,3
-90084540,https://www.idealista.com/inmueble/90084540/,Calle Asturias,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,,,750000,219,True,4.0,True,5
 91431452,https://www.idealista.com/inmueble/91431452/,Olivares,Barrio Olivares,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.361926,-5.878163,590000,40,,,,4
-91431452,https://www.idealista.com/inmueble/91431452/,Olivares,Barrio Olivares,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,590000,40,,,,4
 90992307,https://www.idealista.com/inmueble/90992307/,Calle Arzobispo Guisasola,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.357596,-5.841457,209000,116,True,9.0,True,3
 90084540,https://www.idealista.com/inmueble/90084540/,Calle Asturias,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364161,-5.853979,750000,219,True,4.0,True,5
-89605792,https://www.idealista.com/inmueble/89605792/,Calle Arquitecto Reguera,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3659095,-5.853493,349000,155,True,7.0,True,4
-90320724,https://www.idealista.com/inmueble/90320724/,Calle González del Valle,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.362569,-5.854015,340000,114,True,2.0,True,4
-83056258,https://www.idealista.com/inmueble/83056258/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.357431,-5.848744,205000,83,True,7.0,True,3
+89605792,https://www.idealista.com/inmueble/89605792/,Calle Arquitecto Reguera,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36591,-5.853493,349000,155,True,7.0,True,4
+90320724,https://www.idealista.com/inmueble/90320724/,Calle González del Valle,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3625686,-5.8540153,340000,114,True,2.0,True,4
+83056258,https://www.idealista.com/inmueble/83056258/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.354331,-5.847844,205000,83,True,7.0,True,3
 90711235,https://www.idealista.com/inmueble/90711235/,"Pasaje Luis Muñiz, 4",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.360941,-5.841275,145000,63,True,1.0,True,2
-90878875,https://www.idealista.com/inmueble/90878875/,Calle Corvera,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3706391,-5.8739149,135000,71,True,2.0,True,2
+90878875,https://www.idealista.com/inmueble/90878875/,Calle Corvera,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.370639,-5.873915,135000,71,True,2.0,True,2
 90703244,https://www.idealista.com/inmueble/90703244/,Calle del General Elorza,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.368142,-5.849273,114900,102,True,1.0,True,2
 90791095,https://www.idealista.com/inmueble/90791095/,"Calle Fuente de la Plata, 73",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364322,-5.875246,129000,98,True,4.0,True,3
-90379958,https://www.idealista.com/inmueble/90379958/,"Calle Luxemburgo, 3",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.371651,-5.82838,125000,76,True,7.0,True,2
+90379958,https://www.idealista.com/inmueble/90379958/,"Calle Luxemburgo, 3",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3716513,-5.8283801,125000,76,True,7.0,True,2
 89694511,https://www.idealista.com/inmueble/89694511/,Calle Santiago de Compostela s/n,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3743314,-5.8546578,135000,84,True,1.0,True,2
-90886021,https://www.idealista.com/inmueble/90886021/,navia,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367813,-5.878059,105000,76,True,7.0,True,2
-91521661,https://www.idealista.com/inmueble/91521661/,Aldea las Cruces,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.34833,-5.82154,450000,365,,,,5
-91060185,https://www.idealista.com/inmueble/91060185/,Calle Catedrático Gimeno,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.354373,-5.853724,159000,55,True,8.0,True,2
-90477132,https://www.idealista.com/inmueble/90477132/,Calle Mariscal Solis,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.366168,-5.865601,55000,67,True,3.0,True,2
-91458435,https://www.idealista.com/inmueble/91458435/,Calle Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.363979,-5.856534,1200000,421,True,5.0,True,6
-91050736,https://www.idealista.com/inmueble/91050736/,Calle Asturias,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364122,-5.858392,149000,62,True,2.0,True,2
-90855605,https://www.idealista.com/inmueble/90855605/,Viaducto del Ingeniero Marquina,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3660745,-5.8535297,520000,147,True,4.0,True,3
+90477132,https://www.idealista.com/inmueble/90477132/,Calle Mariscal Solis,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3661684,-5.8656009,55000,67,True,3.0,True,2
+91565807,https://www.idealista.com/inmueble/91565807/,Calle Colegio San Ignacío,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.375887,-5.820251,365000,211,,,,3
+91060185,https://www.idealista.com/inmueble/91060185/,Calle Catedrático Gimeno,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,,,159000,55,True,8.0,True,2
+90855605,https://www.idealista.com/inmueble/90855605/,Viaducto del Ingeniero Marquina,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.366075,-5.85353,520000,147,True,4.0,True,3
 90672411,https://www.idealista.com/inmueble/90672411/,Calle Tomás Crespo Frigilis,Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35979,-5.864704,250000,99,True,2.0,True,3
-88618529,https://www.idealista.com/inmueble/88618529/,Calle Piloña,Urb. Urbanización Loma de Montecerrao,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,,,298000,114,True,7.0,True,2
+88618529,https://www.idealista.com/inmueble/88618529/,Calle Piloña,Urb. Urbanización Loma de Montecerrao,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,43.3515639,-5.8630951,298000,114,True,7.0,True,2
 90114494,https://www.idealista.com/inmueble/90114494/,Calle Nueve de Mayo,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.367439,-5.851509,249500,111,True,5.0,True,4
-90882730,https://www.idealista.com/inmueble/90882730/,"Calle González Besada, 1",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.35732,-5.848016,119000,89,,1.0,True,3
+90882730,https://www.idealista.com/inmueble/90882730/,"Calle González Besada, 1",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3573199,-5.8480156,119000,89,,1.0,True,3
 90536990,https://www.idealista.com/inmueble/90536990/,"Calle de Campomanes, 13",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.35814,-5.846305,200000,163,True,2.0,True,4
-91436975,https://www.idealista.com/inmueble/91436975/,Calle Monte Gamonal,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3705,-5.85427,159000,76,True,4.0,True,2
-91431054,https://www.idealista.com/inmueble/91431054/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365683,-5.849894,160000,120,True,3.0,True,4
-90874473,https://www.idealista.com/inmueble/90874473/,Calle Coaña,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367384,-5.877024,142000,79,True,1.0,True,2
+91521661,https://www.idealista.com/inmueble/91521661/,Aldea las Cruces,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.34743,-5.82264,450000,365,,,,5
+90874473,https://www.idealista.com/inmueble/90874473/,Calle Coaña,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3673839,-5.8770238,142000,79,True,1.0,True,2
 89989931,https://www.idealista.com/inmueble/89989931/,"Calle Carlos Asensio Bretones, 23",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3582968,-5.8388369,158000,77,True,3.0,True,2
-91395926,https://www.idealista.com/inmueble/91395926/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365054,-5.852434,445000,190,True,3.0,True,5
-87849203,https://www.idealista.com/inmueble/87849203/,"LA LILA, 17 B",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365946,-5.847954,165000,71,True,4.0,False,2
+87266474,https://www.idealista.com/inmueble/87266474/,Olivares,Barrio Olivares,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3621351,-5.8793001,498000,546,,,,5
+91050736,https://www.idealista.com/inmueble/91050736/,Calle Asturias,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364122,-5.858392,149000,62,True,2.0,True,2
+91395926,https://www.idealista.com/inmueble/91395926/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3650536,-5.8524341,445000,190,True,3.0,True,5
+87849203,https://www.idealista.com/inmueble/87849203/,"LA LILA, 17 B",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3659464,-5.8479538,165000,71,True,4.0,False,2
+91458435,https://www.idealista.com/inmueble/91458435/,Calle Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3639789,-5.8565338,1200000,421,True,5.0,True,6
+91274807,https://www.idealista.com/inmueble/91274807/,Calle de Víctor Sáenz,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.354976,-5.858862,390000,207,,,,3
+91373433,https://www.idealista.com/inmueble/91373433/,"Calle la Lila, 12",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3658214,-5.8474591,189000,140,True,3.0,True,5
+90943338,https://www.idealista.com/inmueble/90943338/,"Calle Julio Álvarez Mendo, 7",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.379,-5.8208399,129900,75,True,4.0,True,2
+90894616,https://www.idealista.com/inmueble/90894616/,Avenida de Galicia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3611625,-5.8537075,525000,190,True,4.0,True,4
+90875758,https://www.idealista.com/inmueble/90875758/,Avenida Hermanos Menéndez Pidal,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3588765,-5.8573371,260000,80,True,5.0,True,2
+90856715,https://www.idealista.com/inmueble/90856715/,Calle Gil de Jaz,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.363093,-5.854235,595000,300,True,5.0,True,4
+90626223,https://www.idealista.com/inmueble/90626223/,Avenida de las Segadas,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.355015,-5.85809,149000,82,True,2.0,True,2
+90583940,https://www.idealista.com/inmueble/90583940/,Calle Ángel Muñiz Toca,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3577022,-5.8582866,139000,86,True,4.0,True,3
+85508197,https://www.idealista.com/inmueble/85508197/,"Calle Amparo Pedregal, 9",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.367168,-5.8403781,99000,100,True,9.0,True,3
+91436975,https://www.idealista.com/inmueble/91436975/,Calle Monte Gamonal,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3705,-5.85427,159000,76,True,4.0,True,2
+91431054,https://www.idealista.com/inmueble/91431054/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.368883,-5.848694,160000,120,True,3.0,True,4
+90712933,https://www.idealista.com/inmueble/90712933/,"Calle González Besada, 1",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3573199,-5.8480156,149000,89,True,2.0,True,2
+86359533,https://www.idealista.com/inmueble/86359533/,"Calle Gozon, 21",Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.366977,-5.873073,268900,157,True,,,4
+91164304,https://www.idealista.com/inmueble/91164304/,Calle Rosal,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3595187,-5.8462809,219000,87,True,,,2
+91018347,https://www.idealista.com/inmueble/91018347/,Avenida de Galicia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3630625,-5.8558075,525000,182,True,7.0,True,5
+90961532,https://www.idealista.com/inmueble/90961532/,Calle Luis Alvarez Fueyo,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3596701,-5.8354467,195000,98,True,1.0,True,3
+90943242,https://www.idealista.com/inmueble/90943242/,Calle Victor Hevia,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36698,-5.864598,140000,80,True,7.0,True,3
+90741960,https://www.idealista.com/inmueble/90741960/,Calle Azcárraga,Barrio El Postigo,Distrito Centro-Casco Histórico,Oviedo,43.361841,-5.842842,125000,116,False,2.0,True,3
+90237749,https://www.idealista.com/inmueble/90237749/,Calle Llano Ponte,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.369419,-5.850873,189000,103,True,2.0,True,3
+87393659,https://www.idealista.com/inmueble/87393659/,Calle de San Ignacio de Loyola,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.370108,-5.846777,225000,144,True,,,4
+89428135,https://www.idealista.com/inmueble/89428135/,"Calle Asturias, 24",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36369,-5.855528,180000,93,True,6.0,True,3
+90390256,https://www.idealista.com/inmueble/90390256/,Calle Arquitecto Reguera,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36241,-5.854793,325000,164,True,5.0,,4
+91221773,https://www.idealista.com/inmueble/91221773/,"Quintana, 26",Urb. ZONA FONTAN,Barrio Fontán,Distrito Centro-Casco Histórico,43.3588031,-5.8480362,129000,75,True,7.0,True,2
+90154884,https://www.idealista.com/inmueble/90154884/,"Avenida galicia, 43",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.360274,-5.861887,198000,100,True,5.0,True,3
+89914773,https://www.idealista.com/inmueble/89914773/,"Calle de Campomanes, 15",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.35814,-5.846509,219990,101,True,2.0,True,3
+91320633,https://www.idealista.com/inmueble/91320633/,"Calle Quintana, 26",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.358803,-5.848036,132000,87,True,4.0,True,3
+91405008,https://www.idealista.com/inmueble/91405008/,Lugar el Toral,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.342708,-5.857159,210000,452,,,,4
+90603687,https://www.idealista.com/inmueble/90603687/,"Calle del Postigo Bajo, 26",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3614274,-5.840432,154900,101,True,3.0,True,3
+88892120,https://www.idealista.com/inmueble/88892120/,"SANTA SUSANA, 15",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,,,380000,132,True,5.0,True,3
+91029714,https://www.idealista.com/inmueble/91029714/,Calle Fray Ceferino,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,,,139000,83,True,3.0,True,2
+90685874,https://www.idealista.com/inmueble/90685874/,Calle Escultor Folgueras,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3661734,-5.8609499,395000,276,,,,5
+90522802,https://www.idealista.com/inmueble/90522802/,"Calle Fruela, 14",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3613748,-5.8471806,180000,66,,2.0,False,2
+90370797,https://www.idealista.com/inmueble/90370797/,"Calle Catedrático Gimeno, 2",Urb. Auditorio - Besada,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,,,159000,80,True,8.0,True,2
+88098932,https://www.idealista.com/inmueble/88098932/,MARCELINO SUAREZ,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3665258,-5.862588,118800,96,True,7.0,True,3
+88853770,https://www.idealista.com/inmueble/88853770/,Calle Hermanos Villanueva,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368267,-5.858802,990000,525,,,,5
+87000719,https://www.idealista.com/inmueble/87000719/,Calle Santa Susana,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.357691,-5.8489673,495000,211,True,5.0,True,5
+82500515,https://www.idealista.com/inmueble/82500515/,"Calle Ribera de Arriba, Oviedo",Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.350261,-5.8671466,249900,102,True,6.0,True,3
+90874276,https://www.idealista.com/inmueble/90874276/,"Calle Pedro Masaveu, 3",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3558308,-5.8542444,106000,53,True,1.0,False,2
+90129523,https://www.idealista.com/inmueble/90129523/,Calle José García Nieto,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.349129,-5.847774,450000,500,,,,7
+83825966,https://www.idealista.com/inmueble/83825966/,"Calle Fraternidad, 9",Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364695,-5.866154,98000,66,True,4.0,True,2
+85297658,https://www.idealista.com/inmueble/85297658/,Álvaro de Albornoz,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3773232,-5.8190321,95000,87,True,2.0,,3
+38623547,https://www.idealista.com/inmueble/38623547/,Calle bimenes,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,620000,400,,,,6
+87036352,https://www.idealista.com/inmueble/87036352/,,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368383,-5.874923,175000,113,True,1.0,True,3
+91382486,https://www.idealista.com/inmueble/91382486/,"Avenida de Galicia, 10",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.361463,-5.854907,495000,190,True,7.0,True,5
+91374016,https://www.idealista.com/inmueble/91374016/,"Calle Cervantes, 4",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.361979,-5.854934,1200000,435,True,5.0,True,6
+88532792,https://www.idealista.com/inmueble/88532792/,Calle Hermanos Villanueva,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368467,-5.859602,990000,525,,,,6
+86788529,https://www.idealista.com/inmueble/86788529/,Lugar el Medio,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3431,-5.84573,470000,348,,,,4
+86931832,https://www.idealista.com/inmueble/86931832/,Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.366982,-5.845014,189000,116,True,4.0,True,4
+88641436,https://www.idealista.com/inmueble/88641436/,"Calle Carpio, 12",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.359835,-5.843747,149900,68,True,1.0,True,2
+91451405,https://www.idealista.com/inmueble/91451405/,"Calle General Yagüe, 1",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.362316,-5.853284,450000,185,True,2.0,True,4
+91581207,https://www.idealista.com/inmueble/91581207/,"Calle Peña Santa de Enol, 39",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3660762,-5.8604646,475000,305,,,,5
+90971568,https://www.idealista.com/inmueble/90971568/,Calle Pérez de la Sala,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.355672,-5.853775,175000,80,True,6.0,True,3
+90937656,https://www.idealista.com/inmueble/90937656/,"González Besada, 39",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3558482,-5.8519776,139500,114,True,3.0,True,3
+88532122,https://www.idealista.com/inmueble/88532122/,Calle Cardenal Cienfuegos,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3537639,-5.8486909,165000,82,True,3.0,True,2
+90410480,https://www.idealista.com/inmueble/90410480/,"Plaza sol, 6",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.360273,-5.844241,175000,86,True,5.0,True,2
+90583380,https://www.idealista.com/inmueble/90583380/,"Calle Granados, 14",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3702966,-5.8389393,79000,71,True,2.0,True,3
+90522851,https://www.idealista.com/inmueble/90522851/,"Calle Fernando Alonso Díaz, 9",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.357879,-5.841112,158000,85,True,2.0,True,3
+90366689,https://www.idealista.com/inmueble/90366689/,Calle González Besada,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.354447,-5.849997,275000,130,True,4.0,True,4
+89546068,https://www.idealista.com/inmueble/89546068/,Calle Sacramento,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.355988,-5.848701,260000,119,True,5.0,True,3
+88931241,https://www.idealista.com/inmueble/88931241/,"Calle Arquitecto Reguera, 3",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.363353,-5.854789,350000,166,True,3.0,True,3
+85749450,https://www.idealista.com/inmueble/85749450/,Calle Asturias,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36125,-5.854366,490000,238,True,2.0,True,6
+87501625,https://www.idealista.com/inmueble/87501625/,Calle Jacinto Benavente,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3643458,-5.8653757,89000,58,True,5.0,True,2
+86563190,https://www.idealista.com/inmueble/86563190/,"la estrecha, 46",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3804,-5.82763,105900,90,True,5.0,True,3
+90912401,https://www.idealista.com/inmueble/90912401/,"Calle Pravia, 16",Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3666493,-5.8773033,195000,115,True,2.0,True,3
+90448445,https://www.idealista.com/inmueble/90448445/,"Calle Tomás Crespo Frigilis, 12",Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.361764,-5.865973,147000,88,True,1.0,True,2
+87085802,https://www.idealista.com/inmueble/87085802/,"Calle Carlos Asensio Bretones, 9",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3593455,-5.8394302,179000,78,True,2.0,True,2
+86372866,https://www.idealista.com/inmueble/86372866/,"Calle de Campomanes, 11",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3582958,-5.8461611,395000,150,True,1.0,True,4
+91386996,https://www.idealista.com/inmueble/91386996/,"Calle Jerónimo Ibrán, 1",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3677023,-5.8507773,229000,95,True,2.0,True,3
+91130462,https://www.idealista.com/inmueble/91130462/,"Calle Cuatro Ases de la Canción Asturiana, 4",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368018,-5.860128,750000,453,,,,6
+90768599,https://www.idealista.com/inmueble/90768599/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3639682,-5.8462578,127000,69,True,7.0,True,2
+87322757,https://www.idealista.com/inmueble/87322757/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3540087,-5.8471907,337000,180,True,1.0,True,5
+89289282,https://www.idealista.com/inmueble/89289282/,Calle Rafael Altamira,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.356197,-5.864048,125000,83,True,7.0,True,3
+88774143,https://www.idealista.com/inmueble/88774143/,Calle Gozon,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369354,-5.867867,250000,132,True,2.0,True,4
+88667193,https://www.idealista.com/inmueble/88667193/,Calle Teodoro Cuesta,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367705,-5.854483,94000,77,True,1.0,True,3
+88538426,https://www.idealista.com/inmueble/88538426/,Calle Alejandro Casona,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.363252,-5.864788,280000,150,True,7.0,True,4
+87786226,https://www.idealista.com/inmueble/87786226/,Calle Gozon,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.366367,-5.871168,150000,70,True,6.0,True,2
+85934324,https://www.idealista.com/inmueble/85934324/,Calle Gregorio Marañon,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.365933,-5.861541,66500,66,,1.0,True,2
+81193867,https://www.idealista.com/inmueble/81193867/,"argañosa, 32",Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.363947,-5.862969,104900,77,True,1.0,True,2
+34292238,https://www.idealista.com/inmueble/34292238/,Calle Cervantes,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3625336,-5.854898,890000,400,True,8.0,True,5
+85792174,https://www.idealista.com/inmueble/85792174/,Avenida Hermanos Menéndez Pidal,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35891,-5.86032,159900,99,True,5.0,True,3
+89802575,https://www.idealista.com/inmueble/89802575/,"Cuesta Vallina, 20",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.357958,-5.920054,134000,103,True,3.0,True,4
+86739053,https://www.idealista.com/inmueble/86739053/,"Calle Molin la Casuca 3, 5",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3880907,-5.8168308,145000,66,True,4.0,True,2
+86520324,https://www.idealista.com/inmueble/86520324/,"Calle Torrecerredo, 27",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.370556,-5.854796,69000,78,True,5.0,False,3
+87413230,https://www.idealista.com/inmueble/87413230/,Calle Colegio Santo Ángel de la Guardia s/n,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3786384,-5.8160318,134000,89,True,,True,2
+86130341,https://www.idealista.com/inmueble/86130341/,Calle Colegio Santo Ángel de la Guardia s/n,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3786384,-5.8160318,140000,83,True,,True,2
+86130347,https://www.idealista.com/inmueble/86130347/,Calle Colegio Santo Ángel de la Guardia s/n,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3786384,-5.8160318,140000,96,True,,True,2
+83253131,https://www.idealista.com/inmueble/83253131/,"Calle Augusto Junquera, 25",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.370552,-5.8536254,119000,100,True,4.0,True,3
+40254332,https://www.idealista.com/inmueble/40254332/,"Calle Molin la Casuca 3, 5",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3880907,-5.8168308,163000,97,True,,True,3
+40254550,https://www.idealista.com/inmueble/40254550/,"Calle Molin la Casuca 3, 5",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3880907,-5.8168308,163000,94,True,,True,3
+91281977,https://www.idealista.com/inmueble/91281977/,Calle Lorenzo Abruñedo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368513,-5.854861,108000,79,True,3.0,True,2
+86294125,https://www.idealista.com/inmueble/86294125/,"Calle Suárez Inclán, 28",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3478364,-5.9672238,47000,96,,1.0,True,3
+39108824,https://www.idealista.com/inmueble/39108824/,Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.361956,-5.853891,629000,450,True,1.0,True,7
+90581382,https://www.idealista.com/inmueble/90581382/,"Calle Pérez de la Sala, 21",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.35783,-5.850207,250000,103,True,3.0,False,3
+88991057,https://www.idealista.com/inmueble/88991057/,"Calle Vicente Miranda, 5",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3855112,-5.8252273,89000,75,True,3.0,True,2
+90650260,https://www.idealista.com/inmueble/90650260/,Calle Santa Eulalia de Mérida,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.361478,-5.863192,160000,82,True,4.0,True,3
+90703676,https://www.idealista.com/inmueble/90703676/,"Lola Mateos, 22",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36339,-5.86702,160000,137,True,1.0,True,4
+89786688,https://www.idealista.com/inmueble/89786688/,Avenida de Colon,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36424,-5.859405,220000,132,True,5.0,True,4
+91570824,https://www.idealista.com/inmueble/91570824/,Plaza Eduardo Úrculo,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.36681,-5.8492,182000,93,True,1.0,True,2
+87734618,https://www.idealista.com/inmueble/87734618/,"Marqués de Pidal, 19",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364637,-5.853835,325000,224,True,3.0,True,5
+87175612,https://www.idealista.com/inmueble/87175612/,"Calle Bermúdez de Castro, 46",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.371437,-5.836816,129000,104,True,1.0,True,4
+86534375,https://www.idealista.com/inmueble/86534375/,Calle Rosal s/n,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,,,470000,200,True,4.0,True,4
+86040202,https://www.idealista.com/inmueble/86040202/,"Calle Hangzhou, 8",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.373184,-5.858068,119000,63,,,,2
+84860079,https://www.idealista.com/inmueble/84860079/,"Melquiades Alvarez, 19",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,,,470000,206,True,3.0,True,4
+40283139,https://www.idealista.com/inmueble/40283139/,"Calle Rosal, 66",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.359165,-5.848604,189000,76,True,3.0,True,2
+39328329,https://www.idealista.com/inmueble/39328329/,Viaducto del Ingeniero Marquina,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3648625,-5.8530611,130000,78,True,1.0,,2
+90658412,https://www.idealista.com/inmueble/90658412/,Calle Santiago de Compostela s/n,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3743314,-5.8546578,165000,95,True,4.0,True,3
+89926714,https://www.idealista.com/inmueble/89926714/,Calle Santiago de Compostela s/n,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3743314,-5.8546578,147000,95,True,1.0,True,3
+88464225,https://www.idealista.com/inmueble/88464225/,Calle Santiago de Compostela s/n,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.374331,-5.854658,280000,118,True,,True,3
+88648220,https://www.idealista.com/inmueble/88648220/,"Avenida del Mar, 28",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3724862,-5.8373589,78000,93,True,5.0,True,2
+88413670,https://www.idealista.com/inmueble/88413670/,"Avenida Cristo de las Cadenas, 5",Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.356247,-5.858341,79900,85,True,5.0,True,3
+87836747,https://www.idealista.com/inmueble/87836747/,"Calle Evaristo Valle, 16",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.36943,-5.84444,79900,77,True,6.0,,2
+87508573,https://www.idealista.com/inmueble/87508573/,"Calle Álvarez Lorenzana, 16",Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.355365,-5.859413,116900,86,True,1.0,True,2
+87474062,https://www.idealista.com/inmueble/87474062/,"Calle Uria, 40",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364016,-5.8510943,340000,140,True,,,3
+84614173,https://www.idealista.com/inmueble/84614173/,"Calle Nicolás y Pepín Rivero, 4",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3533707,-5.8420513,157000,124,True,6.0,True,3
+91127202,https://www.idealista.com/inmueble/91127202/,Calle Marqués de Pidal,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364452,-5.854139,298500,92,True,7.0,True,2
+90370916,https://www.idealista.com/inmueble/90370916/,Avenida Valentín Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36242,-5.8642155,78900,68,True,6.0,False,2
+88770941,https://www.idealista.com/inmueble/88770941/,Calle Julio González Pola,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.362145,-5.858742,234800,124,True,5.0,True,3
+88574203,https://www.idealista.com/inmueble/88574203/,Calle Luis Riera Posada,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369619,-5.864971,129000,64,True,3.0,True,2
+88340009,https://www.idealista.com/inmueble/88340009/,Calle Adolfo Posada,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3567645,-5.8394526,105000,64,True,1.0,True,2
+82506019,https://www.idealista.com/inmueble/82506019/,Calle Vital Aza,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369348,-5.858301,139000,162,,,,6
+32106485,https://www.idealista.com/inmueble/32106485/,Calle Melquiades Álvarez,Urb. 1,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,43.3659875,-5.8535365,390000,200,True,5.0,True,4
+90577837,https://www.idealista.com/inmueble/90577837/,Avenida Roma,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373099,-5.83072,123000,90,True,1.0,True,2
+91548131,https://www.idealista.com/inmueble/91548131/,Avenida de Galicia,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3590591,-5.8594269,133000,70,True,6.0,True,2
+88688113,https://www.idealista.com/inmueble/88688113/,Calle Azcárraga,Barrio El Postigo,Distrito Centro-Casco Histórico,Oviedo,43.3655447,-5.8400073,165000,160,True,,True,
+83822026,https://www.idealista.com/inmueble/83822026/,"Avenida Valentín Masip, Oviedo, 7",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.361606,-5.860815,258000,175,True,5.0,True,3
+90478922,https://www.idealista.com/inmueble/90478922/,Calle Ricardo Montes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3684569,-5.8541257,59000,66,True,2.0,,3
+89390212,https://www.idealista.com/inmueble/89390212/,Calle URÍA,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3641584,-5.8492001,720000,357,True,0.5,True,7
+90886021,https://www.idealista.com/inmueble/90886021/,navia,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367813,-5.878059,105000,76,True,7.0,True,2
+91565247,https://www.idealista.com/inmueble/91565247/,Calle Fernando Alonso Díaz,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3569693,-5.8414708,140000,86,True,2.0,True,3
+91556492,https://www.idealista.com/inmueble/91556492/,Calle Piñole,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3710591,-5.8441917,195000,90,True,4.0,True,3
+91551213,https://www.idealista.com/inmueble/91551213/,Calle Doctor Fleming,Barrio Llamaquique,Distrito Centro-Casco Histórico,Oviedo,43.356556,-5.855146,199000,100,True,2.0,True,4
+91549854,https://www.idealista.com/inmueble/91549854/,Calle Marqués de Teverga,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.362359,-5.854281,160000,74,True,5.0,True,3
+91548531,https://www.idealista.com/inmueble/91548531/,Calle la Lila,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.366104,-5.845394,229000,108,True,4.0,True,4
+91547860,https://www.idealista.com/inmueble/91547860/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.378664,-5.834657,154900,96,True,4.0,True,3
+26984495,https://www.idealista.com/inmueble/26984495/,Urb. ZONA PLAZA SAN MIGUEL,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.355562,-5.848778,255000,105,True,7.0,True,3
+88557351,https://www.idealista.com/inmueble/88557351/,Calle Arquitecto Reguera,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3660932,-5.8572628,116000,55,True,3.0,False,2
+85239993,https://www.idealista.com/inmueble/85239993/,,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.357347,-5.847517,295000,109,True,6.0,True,3
+90654345,https://www.idealista.com/inmueble/90654345/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.364774,-5.848344,132000,90,True,4.0,True,4
+89995148,https://www.idealista.com/inmueble/89995148/,"Calle Arquitecto Tioda, 13",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.364719,-5.858949,195000,108,True,5.0,True,3
+87498059,https://www.idealista.com/inmueble/87498059/,Calle Noreña,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.369592,-5.820285,125000,105,True,4.0,True,3
+85234210,https://www.idealista.com/inmueble/85234210/,"Calle de San Lázaro, 12",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.353231,-5.842812,75000,89,True,5.0,True,2
+38075172,https://www.idealista.com/inmueble/38075172/,Calle torrecerredo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36717,-5.856144,109000,81,True,1.0,,3
+91508620,https://www.idealista.com/inmueble/91508620/,"Calle Arquitecto Tioda, 12",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.364668,-5.858259,89000,79,True,1.0,True,3
+90648312,https://www.idealista.com/inmueble/90648312/,"Fuente de la Plata, 11",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.359441,-5.891248,50000,65,False,,True,2
+85321235,https://www.idealista.com/inmueble/85321235/,"Calle Nicolás y Pepín Rivero, 12",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.35372,-5.841785,59000,75,False,1.0,True,3
+91555367,https://www.idealista.com/inmueble/91555367/,General elorza,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3661054,-5.8504512,150000,72,True,2.0,True,2
+91538386,https://www.idealista.com/inmueble/91538386/,Calle Pravia,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367137,-5.8755996,275000,177,True,5.0,True,4
+91521846,https://www.idealista.com/inmueble/91521846/,Plaza San Miguel,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3596807,-5.8481538,450000,206,True,3.0,True,5
+87894140,https://www.idealista.com/inmueble/87894140/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.357994,-5.871568,69000,85,True,6.0,True,3
+90363722,https://www.idealista.com/inmueble/90363722/,"Calle Tapia de Casariego, 11",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3281908,-5.8620787,159000,70,True,5.0,True,2
+88931243,https://www.idealista.com/inmueble/88931243/,"Calle Tapia de Casariego, 15",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.328742,-5.861609,128100,89,True,6.0,True,2
+91508613,https://www.idealista.com/inmueble/91508613/,"Calle Arquitecto Tioda, 14",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.364802,-5.858457,85000,80,True,1.0,True,3
+89942521,https://www.idealista.com/inmueble/89942521/,,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35027,-5.87148,225000,124,True,1.0,True,3
+91427171,https://www.idealista.com/inmueble/91427171/,"Plaza Eduardo Úrculo, 3",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.36851,-5.8478,195000,85,True,4.0,True,2
+90123717,https://www.idealista.com/inmueble/90123717/,Lugar Priorio,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.33454,-5.92579,237000,186,,,,4
+89814024,https://www.idealista.com/inmueble/89814024/,Calle San José,Barrio Casco Histórico,Distrito Centro-Casco Histórico,Oviedo,43.36277,-5.843504,150000,71,True,2.0,True,2
+89130905,https://www.idealista.com/inmueble/89130905/,Calle del General Elorza,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.367729,-5.8425708,136100,93,True,2.0,True,3
+89126353,https://www.idealista.com/inmueble/89126353/,Calle Tenderina Baja,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,,,108800,83,False,1.0,True,3
+91514646,https://www.idealista.com/inmueble/91514646/,"Calle José María Martínez Cachero, 15",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364601,-5.871455,132000,93,True,4.0,True,2
+90879029,https://www.idealista.com/inmueble/90879029/,"Caserio Cuyences, 219",Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.39122,-5.83031,561530,336,,,,4
+90676612,https://www.idealista.com/inmueble/90676612/,"Fumea, 16",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.2988079,-5.8263181,18000,35,,,,1
+90676552,https://www.idealista.com/inmueble/90676552/,"Fuente Arriba, 401",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.29858,-5.823167,45000,158,,,,4
+90670623,https://www.idealista.com/inmueble/90670623/,"Avenida Roma, 6",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3738186,-5.8305486,133400,81,True,8.0,True,2
+90558644,https://www.idealista.com/inmueble/90558644/,"Calle Roberto Frasinelli, 28",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.371933,-5.857093,65000,70,False,2.0,True,3
+90554667,https://www.idealista.com/inmueble/90554667/,"Calle Caso, 2 -6",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.35979,-5.918179,83500,60,True,2.0,True,2
+89131101,https://www.idealista.com/inmueble/89131101/,"Caserio Villaverde, 14",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",,,245000,257,,,,4
+89101852,https://www.idealista.com/inmueble/89101852/,Calle Doctor Joaquín García Morán,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,120900,89,True,4.0,True,3
+88931221,https://www.idealista.com/inmueble/88931221/,"Calle Uria, 64",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,,,350000,95,True,1.0,True,2
+86561844,https://www.idealista.com/inmueble/86561844/,"Avenida de Galicia, 7",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3612365,-5.8547593,381000,191,True,6.0,True,5
+87577305,https://www.idealista.com/inmueble/87577305/,"Calle Villafria, 5",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.355407,-5.834934,109900,73,True,4.0,True,2
+88097265,https://www.idealista.com/inmueble/88097265/,Calle Santa Susana,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.359734,-5.847905,380000,132,True,5.0,True,3
+88016415,https://www.idealista.com/inmueble/88016415/,Calle Santa Susana,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.362034,-5.850911,370000,143,True,9.0,True,4
+87689204,https://www.idealista.com/inmueble/87689204/,Calle Conde de Toreno,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,,,570000,240,True,5.0,True,6
+87296720,https://www.idealista.com/inmueble/87296720/,Calle Ventura Rodríguez,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,,,400000,167,True,2.0,True,4
+83793968,https://www.idealista.com/inmueble/83793968/,"Calle Vázquez de Mella, 69",Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3682983,-5.8665869,144000,90,True,3.0,False,4
+91570821,https://www.idealista.com/inmueble/91570821/,Calle de San Lázaro,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3525312,-5.8421125,124000,145,True,2.0,True,4
+91382387,https://www.idealista.com/inmueble/91382387/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.363438,-5.851652,210000,137,True,2.0,True,4
+90996452,https://www.idealista.com/inmueble/90996452/,"Calle de Campomanes, 20",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3582155,-5.8466795,450000,250,True,5.0,True,8
+91483431,https://www.idealista.com/inmueble/91483431/,"Calle Jersey City, 26",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3736021,-5.8517871,189900,95,True,3.0,True,3
+91538942,https://www.idealista.com/inmueble/91538942/,La Barrosa,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3566327,-5.9242818,490000,338,,,,3
+91480744,https://www.idealista.com/inmueble/91480744/,Calle el Lugar Cordial,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.325896,-5.879043,380000,420,,,,4
+91476870,https://www.idealista.com/inmueble/91476870/,Calle Monte Auseva,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369173,-5.853556,239000,112,True,5.0,True,3
+91020999,https://www.idealista.com/inmueble/91020999/,Calle Calleja de la Ciega,Barrio El Postigo,Distrito Centro-Casco Histórico,Oviedo,43.3657779,-5.8406729,185000,125,True,3.0,True,3
+91012042,https://www.idealista.com/inmueble/91012042/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3637006,-5.853769,275000,151,True,4.0,True,4
+90802440,https://www.idealista.com/inmueble/90802440/,Avenida de Galicia,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3611276,-5.8613121,112000,83,True,,True,3
+90787004,https://www.idealista.com/inmueble/90787004/,Lugar Manzaneda,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.313303,-5.8263985,135000,182,,,,3
+90664854,https://www.idealista.com/inmueble/90664854/,Calle Padre Suárez,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3588533,-5.8435642,95000,115,True,2.0,True,3
+90145397,https://www.idealista.com/inmueble/90145397/,Calle Dionisio Ridruejo,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.35499,-5.846811,617500,287,True,9.0,True,3
+89938437,https://www.idealista.com/inmueble/89938437/,Calle Fruela,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3614775,-5.8444802,230000,168,True,0.5,True,7
+89878409,https://www.idealista.com/inmueble/89878409/,Calle Tapia de Casariego,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.330322,-5.863478,265000,164,,,,2
+89707031,https://www.idealista.com/inmueble/89707031/,Calle Sacramento,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.355729,-5.849743,154000,65,True,1.0,True,2
+88521889,https://www.idealista.com/inmueble/88521889/,Calle los Pilares,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3637933,-5.8581615,110000,87,True,,True,3
+89186440,https://www.idealista.com/inmueble/89186440/,Calle Bermúdez de Castro,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3734217,-5.8384467,63013,101,False,4.0,True,3
+88867684,https://www.idealista.com/inmueble/88867684/,Caserio la Venta,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.34364,-5.92981,310000,402,,,,5
+88721779,https://www.idealista.com/inmueble/88721779/,Avenida Buenavista,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3580831,-5.8621132,138000,121,True,8.0,True,4
+88713832,https://www.idealista.com/inmueble/88713832/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3567441,-5.8692236,83000,73,True,5.0,,2
+88369209,https://www.idealista.com/inmueble/88369209/,Calle Fuente de la Plata,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3643499,-5.8790933,68000,65,True,2.0,True,2
+87693307,https://www.idealista.com/inmueble/87693307/,Arquitecto Tioda,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.365568,-5.859672,129900,71,True,1.0,True,2
+86815433,https://www.idealista.com/inmueble/86815433/,Calle Argañosa,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3670468,-5.868394,60000,97,False,2.0,True,3
+86608468,https://www.idealista.com/inmueble/86608468/,"Marqués de Santa Cruz, 12",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.359817,-5.849934,1000000,404,True,2.0,True,7
+86040670,https://www.idealista.com/inmueble/86040670/,Calle Angustias Pinto,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.38509,-5.81587,69450,73,False,,True,3
+85500106,https://www.idealista.com/inmueble/85500106/,Calle Doctor Casal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.36575,-5.851493,359000,150,True,1.0,True,4
+36220148,https://www.idealista.com/inmueble/36220148/,Plaza Gesta,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3580892,-5.8530581,150000,98,True,5.0,True,3
+88987775,https://www.idealista.com/inmueble/88987775/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3675693,-5.8530077,79900,52,True,3.0,False,2
+36562442,https://www.idealista.com/inmueble/36562442/,,Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3632632,-5.8650454,160000,94,True,1.0,True,3
+88641433,https://www.idealista.com/inmueble/88641433/,"Calle Caso, 2 -6",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.35979,-5.918179,350000,260,,,,3
+88486063,https://www.idealista.com/inmueble/88486063/,"Calle Rafael María de Labra, 12",Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3632717,-5.8376409,49000,70,,2.0,True,2
+87950840,https://www.idealista.com/inmueble/87950840/,Calle la Lila,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3674464,-5.8499538,189000,71,True,4.0,True,2
+88931217,https://www.idealista.com/inmueble/88931217/,"Calle Cervantes, 15",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3627417,-5.8560055,270000,222,True,1.0,True,5
+81466841,https://www.idealista.com/inmueble/81466841/,Gil de Jaz,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3654927,-5.8522349,595000,300,True,5.0,True,4
+90606084,https://www.idealista.com/inmueble/90606084/,"Calle Pérez de la Sala, 23",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,,,93000,51,True,3.0,False,1
+88931219,https://www.idealista.com/inmueble/88931219/,"Calle Bermudo I el Diácono, 2",Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3667935,-5.8695556,167000,104,True,2.0,True,4
+88931108,https://www.idealista.com/inmueble/88931108/,"Calle Augusto Junquera, 2 B",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37046,-5.8528399,89000,95,True,5.0,True,4
+86393943,https://www.idealista.com/inmueble/86393943/,"9 de MAYO, 2",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3657388,-5.8498086,170000,88,True,2.0,True,3
+91468279,https://www.idealista.com/inmueble/91468279/,Calle Leopoldo Alas,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.359524,-5.842923,175000,113,True,1.0,True,3
+91395060,https://www.idealista.com/inmueble/91395060/,Calle Marqués de Santa Cruz,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.361076,-5.849051,240000,64,True,3.0,True,2
+91345131,https://www.idealista.com/inmueble/91345131/,Calle Severo Ochoa,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.358804,-5.858456,250000,103,True,5.0,True,3
+91267162,https://www.idealista.com/inmueble/91267162/,"Calle Isidoro Chamorro Perez, 4 -12",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.357632,-5.837253,165000,72,True,5.0,True,2
+91246113,https://www.idealista.com/inmueble/91246113/,"Plaza de Primo Rivera, 1",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.367497,-5.849622,150000,145,True,10.0,True,4
+91226524,https://www.idealista.com/inmueble/91226524/,"Calle Luna, 5",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.363338,-5.846058,89000,54,True,2.0,False,1
+88448137,https://www.idealista.com/inmueble/88448137/,Calle Doctor Francisco Grande Covián s/n,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3692986,-5.8332176,125000,90,True,1.0,True,3
+91171720,https://www.idealista.com/inmueble/91171720/,Calle Jacinto Benavente,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3640436,-5.8676014,198000,84,True,6.0,True,3
+89879466,https://www.idealista.com/inmueble/89879466/,Calle González Besada,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3581531,-5.8511253,89900,80,True,1.0,True,3
+89704979,https://www.idealista.com/inmueble/89704979/,Calle Escultor Navascués,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3703092,-5.8440146,74990,92,False,2.0,True,4
+88832995,https://www.idealista.com/inmueble/88832995/,"San Esteban de las Cruces, Lugido, 23",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.337014,-5.820193,349990,291,,,,7
+88943112,https://www.idealista.com/inmueble/88943112/,Media Legua,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.38044,-5.81276,129000,90,True,3.0,True,3
+87802660,https://www.idealista.com/inmueble/87802660/,,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.363485,-5.8591119,75000,87,True,6.0,True,3
+87711521,https://www.idealista.com/inmueble/87711521/,Calle Suárez de la Riva,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36168,-5.84805,399000,264,True,5.0,True,5
+86040089,https://www.idealista.com/inmueble/86040089/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.374009,-5.8351129,88000,86,False,2.0,True,3
+91180275,https://www.idealista.com/inmueble/91180275/,"Calle Santiago de Compostela, 14",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37494,-5.85489,219000,113,True,2.0,True,3
+91548964,https://www.idealista.com/inmueble/91548964/,"MARTINEZ CACHERO, 34",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3636638,-5.8758421,127000,87,True,1.0,True,2
+90992638,https://www.idealista.com/inmueble/90992638/,Avenida Valentín Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3626953,-5.8627774,147000,90,True,2.0,True,3
+90961567,https://www.idealista.com/inmueble/90961567/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3547238,-5.8488856,149500,100,True,5.0,True,3
+90959780,https://www.idealista.com/inmueble/90959780/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3553789,-5.8485171,280000,140,True,2.0,True,4
+90955135,https://www.idealista.com/inmueble/90955135/,Avenida de Galicia,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.359384,-5.8611122,265000,85,True,1.0,True,3
+90889720,https://www.idealista.com/inmueble/90889720/,"Caserío la Cruz, 39",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3624346,-5.9105154,65000,70,True,2.0,True,2
+90685956,https://www.idealista.com/inmueble/90685956/,"MARQUES DE SANTA CRUZ, 11",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3598858,-5.8496437,680000,165,True,4.0,True,4
+90494156,https://www.idealista.com/inmueble/90494156/,Calle González del Valle,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.363981,-5.851864,299000,129,True,4.0,True,5
+90457220,https://www.idealista.com/inmueble/90457220/,Calle Favila,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.365429,-5.871584,145000,92,True,4.0,True,2
+90672477,https://www.idealista.com/inmueble/90672477/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3550658,-5.8503456,200000,109,True,5.0,True,4
+90672005,https://www.idealista.com/inmueble/90672005/,Calle Pérez de la Sala,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3582464,-5.8547825,198000,124,True,4.0,True,4
+90670658,https://www.idealista.com/inmueble/90670658/,Calle Aureliano San Román,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3719295,-5.8369393,54200,81,True,1.0,True,3
+90650841,https://www.idealista.com/inmueble/90650841/,"Avenida de Roma, 2 A",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.374361,-5.8316373,162000,80,True,3.0,True,3
+90584010,https://www.idealista.com/inmueble/90584010/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.359705,-5.8649617,157000,65,True,5.0,True,2
+90582715,https://www.idealista.com/inmueble/90582715/,Calle de Pio XII,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.362179,-5.8640763,176400,145,True,5.0,True,5
+90448430,https://www.idealista.com/inmueble/90448430/,"Calle Tenderina Baja, 171",Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3678029,-5.8254107,38000,60,,1.0,True,2
+90275508,https://www.idealista.com/inmueble/90275508/,"Plaza la Alameda, 3",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3712842,-5.8478947,190000,103,True,5.0,True,3
+90016679,https://www.idealista.com/inmueble/90016679/,Calle Conde de Toreno,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3638439,-5.852039,580000,206,True,3.0,True,6
+90006313,https://www.idealista.com/inmueble/90006313/,Calle Marcos Peña Royo,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36369,-5.86532,160000,125,True,1.0,True,4
+89933680,https://www.idealista.com/inmueble/89933680/,Calle de la Independencia,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36573,-5.85232,750000,177,True,1.0,True,4
+89707053,https://www.idealista.com/inmueble/89707053/,"Calle de Campomanes, 9",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3583729,-5.8458023,595000,306,True,4.0,True,7
+89426648,https://www.idealista.com/inmueble/89426648/,lila,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3666932,-5.845435,150000,74,True,1.0,False,2
+89140909,https://www.idealista.com/inmueble/89140909/,"Calle Carlos Asensio Bretones, 1",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3599244,-5.839384,165000,75,True,2.0,True,2
+88931178,https://www.idealista.com/inmueble/88931178/,"Calle Campoamor, 3",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3653375,-5.8511522,210000,136,True,2.0,,4
+88931175,https://www.idealista.com/inmueble/88931175/,"Calle Ramiro I Rey, 12 -30",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3658272,-5.8609222,575000,300,,,,8
+88567076,https://www.idealista.com/inmueble/88567076/,Calle Fuertes Acevedo,Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36004,-5.862962,350000,240,True,2.0,True,4
+88538441,https://www.idealista.com/inmueble/88538441/,Monte Naranco s/n,Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.3842865,-5.8431492,525000,403,,,,7
+88396928,https://www.idealista.com/inmueble/88396928/,Avenida de Galicia,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3614513,-5.860246,124500,73,True,5.0,True,2
+88267044,https://www.idealista.com/inmueble/88267044/,"Calle Celestino Álvarez, 5",Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.353981,-5.86289,279000,102,True,1.0,True,3
+87895509,https://www.idealista.com/inmueble/87895509/,"Avenida fray ceferino, 37",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3680107,-5.8497418,158000,104,True,4.0,True,3
+88090067,https://www.idealista.com/inmueble/88090067/,Calle José María Martínez Cachero,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3647532,-5.8753361,98000,60,True,3.0,True,2
+87723030,https://www.idealista.com/inmueble/87723030/,Calle Leopoldo Alas,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.356384,-5.845218,239000,101,True,5.0,True,3
+87590512,https://www.idealista.com/inmueble/87590512/,Calle Marqués de Santa Cruz,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3607858,-5.8482437,680000,165,True,4.0,True,4
+87207837,https://www.idealista.com/inmueble/87207837/,Avenida de Galicia,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3592166,-5.8615009,125900,95,True,,True,3
+86934217,https://www.idealista.com/inmueble/86934217/,Calle José María Marcilla,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.353419,-5.8675993,166000,98,False,1.0,True,2
+86731898,https://www.idealista.com/inmueble/86731898/,Calle Cabo Noval,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3613795,-5.8478278,330000,122,True,1.0,True,2
+86578343,https://www.idealista.com/inmueble/86578343/,Calle Cardenal Arce Ochotorena,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3542816,-5.8410746,65000,93,,,,3
+86529235,https://www.idealista.com/inmueble/86529235/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3603336,-5.8698602,98000,80,True,5.0,True,3
+86389418,https://www.idealista.com/inmueble/86389418/,Calle Jose Miguel Caso Gonzalez,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35624,-5.87552,310000,240,,,,4
+86234906,https://www.idealista.com/inmueble/86234906/,"CERVANTES, 26",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3642218,-5.8566925,380000,161,True,5.0,True,5
+85520688,https://www.idealista.com/inmueble/85520688/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.35568,-5.8501899,249900,84,True,8.0,True,3
+91435577,https://www.idealista.com/inmueble/91435577/,Calle Tito Bustillo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3668728,-5.8552295,75000,52,True,1.0,True,1
+91431156,https://www.idealista.com/inmueble/91431156/,Lugar Bobela,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3562846,-5.9273484,205000,169,,,,3
+91400062,https://www.idealista.com/inmueble/91400062/,Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.360979,-5.856334,1200000,421,True,5.0,True,6
+91399658,https://www.idealista.com/inmueble/91399658/,Avenida de Galicia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3623625,-5.8561075,500000,190,True,7.0,True,5
+91397195,https://www.idealista.com/inmueble/91397195/,Calle del General Elorza,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3684559,-5.8484158,230000,114,True,4.0,True,4
+91363372,https://www.idealista.com/inmueble/91363372/,Calle Pintor Ribera,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.370489,-5.836413,115000,80,True,1.0,True,3
+91345650,https://www.idealista.com/inmueble/91345650/,Calle Bermudo I el Diácono,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3660935,-5.8681556,167000,104,True,2.0,True,4
+91345198,https://www.idealista.com/inmueble/91345198/,Calle Tenderina Alta,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.364624,-5.8370068,75000,42,True,1.0,True,1
+91311141,https://www.idealista.com/inmueble/91311141/,Nueve de Mayo,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3638388,-5.8511086,249500,111,True,5.0,True,4
+91291186,https://www.idealista.com/inmueble/91291186/,Avenida de los Monumentos,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.371239,-5.859461,330000,140,,,,3
+91232886,https://www.idealista.com/inmueble/91232886/,Travesía Cida,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.35644,-5.920846,460000,370,,,,4
+91231363,https://www.idealista.com/inmueble/91231363/,Calle Tapia de Casariego,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3312046,-5.8693919,315000,120,True,6.0,True,3
+91212212,https://www.idealista.com/inmueble/91212212/,Calle Jovellanos,Barrio El Postigo,Distrito Centro-Casco Histórico,Oviedo,43.3620312,-5.8413575,220000,143,True,1.0,True,3
+36111756,https://www.idealista.com/inmueble/36111756/,Calle Ricardo Montes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3697261,-5.8555566,90000,66,True,1.0,,2
+91394998,https://www.idealista.com/inmueble/91394998/,"Calle Clara Campoamor, s/n, esquina C/. Abundio Gascón s/n",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.377254,-5.83697,176000,111,True,2.0,True,3
+90653159,https://www.idealista.com/inmueble/90653159/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3625464,-5.8489985,126000,84,True,7.0,True,2
+91526751,https://www.idealista.com/inmueble/91526751/,"Álvaro de Albornoz, 2",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3758346,-5.8199627,114000,124,True,3.0,False,3
+91283976,https://www.idealista.com/inmueble/91283976/,"Plaza Quin el Pescador, 11",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3759702,-5.8188086,94700,85,True,2.0,True,2
+91483501,https://www.idealista.com/inmueble/91483501/,"Calle Benjamín Ortiz, 4",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3692348,-5.8451142,65990,74,True,3.0,True,3
+91374719,https://www.idealista.com/inmueble/91374719/,melquiades cabal,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3679949,-5.8390894,162999,80,True,2.0,True,2
+90502166,https://www.idealista.com/inmueble/90502166/,"Tineo, 18",Barrio Las Campas,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.362925,-5.887013,98000,70,True,3.0,True,2
+90613065,https://www.idealista.com/inmueble/90613065/,"Lugar Alperi, 3",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3391051,-5.754842,29000,53,,,,2
+90102852,https://www.idealista.com/inmueble/90102852/,"Calle valparaiso, 1",Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.35973,-5.83083,149900,101,True,4.0,True,3
+90089463,https://www.idealista.com/inmueble/90089463/,"Lugar la Mortera, 2",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.2966234,-5.8077393,340000,218,,,,3
+90008081,https://www.idealista.com/inmueble/90008081/,"Calle Doctor Alfredo Martínez, 1",Barrio Llamaquique,Distrito Centro-Casco Histórico,Oviedo,43.3593733,-5.8570948,395000,152,True,5.0,True,5
+89915125,https://www.idealista.com/inmueble/89915125/,"Calle Salvador Fuente Gonzalez, 5",Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.36144,-5.8314199,148900,122,True,3.0,,3
+89293053,https://www.idealista.com/inmueble/89293053/,"Calle Puerto de Tarna, 21",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3718566,-5.8342447,99000,82,True,1.0,True,2
+89243466,https://www.idealista.com/inmueble/89243466/,"Calle Gloria Fuertes, 43",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3629836,-5.8627935,70000,41,True,6.0,True,1
+88894205,https://www.idealista.com/inmueble/88894205/,"Rafael Altamira, 7",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3581966,-5.8632481,109900,85,True,11.0,True,3
+87500869,https://www.idealista.com/inmueble/87500869/,"Calle Quintana, 26",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3588543,-5.8477513,119990,84,True,5.0,True,3
+88125385,https://www.idealista.com/inmueble/88125385/,"Calle Fuertes Acevedo, 118",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.357649,-5.8720296,65000,70,True,3.0,True,3
+87498366,https://www.idealista.com/inmueble/87498366/,"Calle Burriana, 1",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3588242,-5.8632627,165000,100,True,12.0,True,3
+86565352,https://www.idealista.com/inmueble/86565352/,"Tapia de Casariego, 7",Urb. Bosque La Zoreda,Distrito La Manjoya-Parroquias Sur,Oviedo,43.3286709,-5.8620927,115000,88,True,1.0,True,2
+89826699,https://www.idealista.com/inmueble/89826699/,santa susana,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3632315,-5.8543972,185000,117,True,6.0,False,3
+91554948,https://www.idealista.com/inmueble/91554948/,Calle Muros del Nalón,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3692627,-5.8806923,155000,101,True,5.0,True,3
+82850896,https://www.idealista.com/inmueble/82850896/,Calle Latores,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3446294,-5.8820255,490000,351,,,,5
+91477745,https://www.idealista.com/inmueble/91477745/,Calle Bermudo I el Diácono,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3656935,-5.8685556,167000,104,True,2.0,True,4
+91145320,https://www.idealista.com/inmueble/91145320/,Gil de Jaz,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.361883,-5.8544718,400000,170,True,2.0,True,4
+91108282,https://www.idealista.com/inmueble/91108282/,Avenida de Pumarín,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3702296,-5.8449197,85000,97,False,3.0,True,4
+90992461,https://www.idealista.com/inmueble/90992461/,Plaza Longoria Carbajal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3626918,-5.8490682,450000,165,True,4.0,True,4
+90973395,https://www.idealista.com/inmueble/90973395/,Manuel Pedregal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3650004,-5.8514314,350000,171,True,5.0,True,4
+90970045,https://www.idealista.com/inmueble/90970045/,Calle Río San Pedro,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.367488,-5.853381,90000,68,True,4.0,True,2
+90941773,https://www.idealista.com/inmueble/90941773/,Calle Marqués de Teverga,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.362659,-5.856838,285000,111,True,5.0,True,4
+90776491,https://www.idealista.com/inmueble/90776491/,Calle Pravia,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368493,-5.878165,209000,95,True,4.0,True,3
+90470052,https://www.idealista.com/inmueble/90470052/,Calle San Mateo,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3577664,-5.8377218,120000,80,True,7.0,True,3
+90603660,https://www.idealista.com/inmueble/90603660/,FITORIA,Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.3832824,-5.8408361,65000,149,,,,4
+90559456,https://www.idealista.com/inmueble/90559456/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3639721,-5.8487264,240000,114,True,5.0,True,3
+90241043,https://www.idealista.com/inmueble/90241043/,Calle Marqués de Santa Cruz,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3579858,-5.8492437,680000,165,True,4.0,True,4
+90181427,https://www.idealista.com/inmueble/90181427/,Caserio Quemada,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.33223,-5.94382,385000,450,,,,5
+90152600,https://www.idealista.com/inmueble/90152600/,Calle Juan Escalante de Mendoza,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.35778,-5.84181,145000,87,True,1.0,True,3
+90122649,https://www.idealista.com/inmueble/90122649/,Plaza de la Puerta de Europa,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.371673,-5.83158,149900,91,True,2.0,True,2
+89992894,https://www.idealista.com/inmueble/89992894/,Lugar Fuente del Forno,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3443,-5.84115,265000,164,,,,2
+89981749,https://www.idealista.com/inmueble/89981749/,Calle Amsterdam,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.372932,-5.830259,189000,103,True,3.0,True,3
+89824338,https://www.idealista.com/inmueble/89824338/,Joaquín de Xuno,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.356992,-5.9199588,118000,100,True,3.0,True,3
+89811510,https://www.idealista.com/inmueble/89811510/,Plaza de América,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.361564,-5.858033,390000,230,True,2.0,True,5
+89803483,https://www.idealista.com/inmueble/89803483/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3753663,-5.8356843,58000,59,True,9.0,,1
+89688892,https://www.idealista.com/inmueble/89688892/,Calle Río Sella,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3702282,-5.8264249,49900,76,True,5.0,True,3
+89653628,https://www.idealista.com/inmueble/89653628/,Calle Fray Ceferino,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.370823,-5.847023,165000,81,True,4.0,True,3
+89488147,https://www.idealista.com/inmueble/89488147/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3758588,-5.8348546,84000,84,True,2.0,True,3
+89301030,https://www.idealista.com/inmueble/89301030/,Calle San José de Calasanz,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3741503,-5.853961,152000,77,True,3.0,True,2
+89122246,https://www.idealista.com/inmueble/89122246/,Calle Hermanos Villanueva,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368131,-5.860774,495000,330,,,,6
+88993860,https://www.idealista.com/inmueble/88993860/,Calle de Vetusta,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.361734,-5.8325084,85000,75,True,2.0,True,3
+88989693,https://www.idealista.com/inmueble/88989693/,Calle Francisco Cambo,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3650429,-5.8617071,444500,309,,,,5
+88950865,https://www.idealista.com/inmueble/88950865/,Calle Marcelino Suárez,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.363973,-5.859262,119000,82,True,4.0,True,4
+88899501,https://www.idealista.com/inmueble/88899501/,Lugar Fuente del Forno,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.34636,-5.84238,360000,400,,,,5
+88834003,https://www.idealista.com/inmueble/88834003/,Calle Vázquez de Mella,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3626671,-5.8608523,55900,53,True,5.0,True,2
+88801242,https://www.idealista.com/inmueble/88801242/,Calle Luxemburgo,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.371651,-5.82658,159000,80,True,8.0,True,2
+88783551,https://www.idealista.com/inmueble/88783551/,Calle Granados,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3713976,-5.8384119,50000,53,True,5.0,True,2
+88721712,https://www.idealista.com/inmueble/88721712/,Calle Saturnino Fresno,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.369541,-5.842136,88000,65,False,1.0,True,1
+88711607,https://www.idealista.com/inmueble/88711607/,Calle Santa Susana,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3583592,-5.8474759,249000,120,True,3.0,True,3
+88597317,https://www.idealista.com/inmueble/88597317/,Calle la Media Legua,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.382663,-5.8120231,130000,97,True,3.0,True,3
+88529406,https://www.idealista.com/inmueble/88529406/,Calle Santa Susana,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3573592,-5.8473759,245000,120,True,3.0,True,3
+88444905,https://www.idealista.com/inmueble/88444905/,Calle Tito Bustillo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3683165,-5.8571752,230000,104,True,3.0,True,3
+88408957,https://www.idealista.com/inmueble/88408957/,Calle Carpio,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.35941,-5.84489,220000,105,True,5.0,True,3
+88342060,https://www.idealista.com/inmueble/88342060/,Avenida de Galicia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,,,325000,139,True,6.0,True,4
+88275889,https://www.idealista.com/inmueble/88275889/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365574,-5.845244,185000,120,True,2.0,True,4
+88208289,https://www.idealista.com/inmueble/88208289/,Calle Santiago de Compostela,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3754822,-5.8524947,190000,89,True,2.0,True,3
+88158769,https://www.idealista.com/inmueble/88158769/,Calle Marqués de Gastañaga,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3590666,-5.8449385,127000,52,True,,True,1
+88140796,https://www.idealista.com/inmueble/88140796/,Calle Amsterdam,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37277,-5.8332,200000,95,True,1.0,True,3
+88129927,https://www.idealista.com/inmueble/88129927/,Plaza de América,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3606038,-5.8564353,150000,51,True,2.0,,1
+88060210,https://www.idealista.com/inmueble/88060210/,Calle Fray Ceferino,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.367532,-5.849966,180000,69,True,4.0,True,2
+88046238,https://www.idealista.com/inmueble/88046238/,Calle Oscura,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.36041,-5.84477,110000,79,,2.0,True,2
+87894853,https://www.idealista.com/inmueble/87894853/,AS-354,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3394047,-5.8084891,450000,365,,,,5
+87768435,https://www.idealista.com/inmueble/87768435/,Calle Miguel Unamuno,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3604539,-5.8381361,153000,95,True,5.0,True,2
+87648694,https://www.idealista.com/inmueble/87648694/,Calle Benjamín Ortiz,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3687348,-5.8462142,70000,74,True,3.0,True,3
+87591186,https://www.idealista.com/inmueble/87591186/,Avenida de Galicia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.358828,-5.858594,700000,204,True,6.0,,5
+87545867,https://www.idealista.com/inmueble/87545867/,Suarez de la Riva,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.358978,-5.848298,340000,150,True,7.0,True,3
+87535778,https://www.idealista.com/inmueble/87535778/,Gozón,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.366207,-5.871861,167000,94,True,5.0,True,3
+87543262,https://www.idealista.com/inmueble/87543262/,Calle Vázquez de Mella,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3659299,-5.8656378,155000,110,True,3.0,True,4
+87525987,https://www.idealista.com/inmueble/87525987/,Calle Concepción Arenal,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.36214,-5.85528,450000,190,True,1.0,True,4
+87458668,https://www.idealista.com/inmueble/87458668/,Calle Matemático Pedrayes,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.363386,-5.858466,375000,150,True,2.0,True,3
+87359192,https://www.idealista.com/inmueble/87359192/,Calle Luna,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.364721,-5.848201,260000,103,True,5.0,True,3
+87243100,https://www.idealista.com/inmueble/87243100/,Calle José García Nieto,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.345424,-5.851338,460000,260,,,,4
+87222268,https://www.idealista.com/inmueble/87222268/,Lugar Toleo,Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.384664,-5.8407357,490000,467,,,,5
+87176802,https://www.idealista.com/inmueble/87176802/,udrion,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.359902,-5.966585,39990,89,,,,3
+86826555,https://www.idealista.com/inmueble/86826555/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3676587,-5.8516382,250000,98,True,1.0,False,4
+85360002,https://www.idealista.com/inmueble/85360002/,Campomanes,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.359465,-5.8451,495000,296,True,1.0,True,6
+84630786,https://www.idealista.com/inmueble/84630786/,Calle Ricardo Montes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3706348,-5.8522329,95000,74,True,2.0,True,1
+84491741,https://www.idealista.com/inmueble/84491741/,luxemburgo,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3741844,-5.8277298,138800,80,True,7.0,True,2
+83766741,https://www.idealista.com/inmueble/83766741/,Plaza San Miguel,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.356382,-5.848904,450000,230,True,3.0,True,5
+39699178,https://www.idealista.com/inmueble/39699178/,Calle Morcín,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3511506,-5.868828,215000,78,True,3.0,True,3
+31589374,https://www.idealista.com/inmueble/31589374/,Carretera de Villamiana,Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3694287,-5.8176171,750000,1.103,,,,7
+87410696,https://www.idealista.com/inmueble/87410696/,"Calle Clara Campoamor, s/n, esquina C/. Abundio Gascón s/n",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.377254,-5.8369698,155000,104,True,1.0,True,3
+90372328,https://www.idealista.com/inmueble/90372328/,"Calle Torrevieja, 12",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,,,250000,99,True,2.0,True,4
+90372326,https://www.idealista.com/inmueble/90372326/,"Calle Torrevieja, 12",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.373303,-5.853947,245000,99,True,1.0,True,4
+90372325,https://www.idealista.com/inmueble/90372325/,"Calle Torrevieja, 12",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3733029,-5.8539469,225000,81,True,2.0,True,3
+36613112,https://www.idealista.com/inmueble/36613112/,"Calle Santiago de Compostela, 18",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37494,-5.85489,250000,103,True,1.0,True,4
+90383779,https://www.idealista.com/inmueble/90383779/,"Calle Clara Campoamor, s/n, esquina C/. Abundio Gascón s/n",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.377254,-5.8369698,198000,111,True,5.0,True,3
+91479250,https://www.idealista.com/inmueble/91479250/,"COVADONGA, 28",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3646057,-5.8491903,82000,63,True,4.0,False,3
+91336266,https://www.idealista.com/inmueble/91336266/,Calle Nueve de Mayo,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3647388,-5.8518086,355000,92,True,7.0,True,4
+91307716,https://www.idealista.com/inmueble/91307716/,"PEDRO MASAVEU, 1",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3560278,-5.8538069,190000,143,True,6.0,True,2
+90823392,https://www.idealista.com/inmueble/90823392/,Calle Viseu,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3744683,-5.8507373,219000,101,True,,,3
+90622712,https://www.idealista.com/inmueble/90622712/,Calle del Postigo Bajo,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3593649,-5.8424658,169900,111,True,4.0,True,3
+87435766,https://www.idealista.com/inmueble/87435766/,Calle Menéndez y Pelayo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3700199,-5.8539463,49000,74,False,3.0,False,3
+84841002,https://www.idealista.com/inmueble/84841002/,Calle de Quirós,Barrio Las Campas,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3637476,-5.888154,110000,86,True,,,3
+82747409,https://www.idealista.com/inmueble/82747409/,Calle Manuel Fernández Avello,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.370897,-5.839842,225000,128,True,,,4
+91392969,https://www.idealista.com/inmueble/91392969/,Plaza de Primo Rivera,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3656974,-5.850322,125000,110,True,6.0,True,3
+91039108,https://www.idealista.com/inmueble/91039108/,Calle Gloria Fuertes,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364006,-5.8625865,195000,99,True,2.0,True,3
+87428555,https://www.idealista.com/inmueble/87428555/,"Perez de la sala, 25",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3575755,-5.850365,295000,249,True,1.0,True,7
+89970304,https://www.idealista.com/inmueble/89970304/,charles darwin,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3596659,-5.8569085,325000,135,True,6.0,True,4
+88981041,https://www.idealista.com/inmueble/88981041/,Calle Jose Requejo,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.38475,-5.82534,105000,105,True,6.0,True,3
+88339793,https://www.idealista.com/inmueble/88339793/,Calle la Lila,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.368663,-5.846711,139900,65,True,5.0,True,1
+88260709,https://www.idealista.com/inmueble/88260709/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3759,-5.836822,55000,88,True,6.0,False,3
+82760533,https://www.idealista.com/inmueble/82760533/,Calle Puerto Pajares,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373456,-5.8365394,124000,97,True,1.0,True,3
+90894540,https://www.idealista.com/inmueble/90894540/,Avenida del mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3781802,-5.8359789,120000,77,True,5.0,True,2
+90921921,https://www.idealista.com/inmueble/90921921/,"mon, 8",Barrio Casco Histórico,Distrito Centro-Casco Histórico,Oviedo,43.3605996,-5.8434199,89000,60,True,3.0,True,1
+90341556,https://www.idealista.com/inmueble/90341556/,,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3651275,-5.8522742,790000,276,True,4.0,,4
+90050473,https://www.idealista.com/inmueble/90050473/,Calle Noreña,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.369008,-5.819417,99000,75,True,3.0,True,2
+88872887,https://www.idealista.com/inmueble/88872887/,"LOS PILARES, 5",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3642853,-5.8590402,76000,59,True,2.0,True,2
+88830168,https://www.idealista.com/inmueble/88830168/,"Calle Martínez Marina, 8",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3587068,-5.8466247,529000,154,True,4.0,True,3
+88729594,https://www.idealista.com/inmueble/88729594/,"Calle Santiago de Compostela, 18",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37494,-5.85489,110000,40,True,1.0,True,1
+88639069,https://www.idealista.com/inmueble/88639069/,Calle Emilio Alarcos Llorach,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3690104,-5.8407042,154900,119,True,1.0,True,4
+87244081,https://www.idealista.com/inmueble/87244081/,"Calle Martínez Marina, 8",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3587068,-5.8466247,529000,155,True,4.0,True,4
+87243937,https://www.idealista.com/inmueble/87243937/,"Calle Martínez Marina, 8",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3587068,-5.8466247,169000,78,True,0.5,True,2
+40575929,https://www.idealista.com/inmueble/40575929/,"Calle Santiago de Compostela, 18",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37494,-5.85489,225000,91,True,1.0,True,3
+40511645,https://www.idealista.com/inmueble/40511645/,"Calle Amparo Pedregal, 5",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.366993,-5.840725,89000,70,True,6.0,True,2
+91285493,https://www.idealista.com/inmueble/91285493/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3667536,-5.8536341,445000,181,True,3.0,True,5
+90860512,https://www.idealista.com/inmueble/90860512/,"Avenida Valentín Masip, 18 -26",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.362129,-5.861932,230000,163,True,1.0,True,4
+90809793,https://www.idealista.com/inmueble/90809793/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3579659,-5.8626926,180000,103,True,6.0,True,2
+90751361,https://www.idealista.com/inmueble/90751361/,Avenida de las Segadas,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3562559,-5.8559047,99000,70,True,5.0,True,2
+90654247,https://www.idealista.com/inmueble/90654247/,"Plaza de Primo Rivera, 1",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3674974,-5.849622,169000,147,True,10.0,True,3
+90339529,https://www.idealista.com/inmueble/90339529/,Avenida Avenida de Bruselas s/n,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3719685,-5.8298128,140000,60,True,8.0,True,1
+90339588,https://www.idealista.com/inmueble/90339588/,Avenida Avenida de Bruselas s/n,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3719685,-5.8298128,182000,118,True,,True,3
+90339554,https://www.idealista.com/inmueble/90339554/,Avenida Avenida de Bruselas s/n,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3719685,-5.8298128,137000,95,True,,True,2
+90052026,https://www.idealista.com/inmueble/90052026/,Calle la Lila,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3657932,-5.848335,197000,106,True,2.0,,3
+89292976,https://www.idealista.com/inmueble/89292976/,"Avenida de Galicia, 40",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3608883,-5.8601554,107000,98,True,8.0,False,3
+89290259,https://www.idealista.com/inmueble/89290259/,"Calle Marqués de Pidal, 21",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.364738,-5.8539258,290000,130,True,3.0,True,3
+89223827,https://www.idealista.com/inmueble/89223827/,"Avenida de Galicia, 42",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3608756,-5.8604027,250000,130,True,2.0,True,3
+88947275,https://www.idealista.com/inmueble/88947275/,"Calle León y Escosura, 6",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3625107,-5.861288,180000,110,True,3.0,True,3
+88944980,https://www.idealista.com/inmueble/88944980/,"Calle Aureliano San Román, 12",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.370137,-5.8415552,224000,212,True,,True,4
+88944961,https://www.idealista.com/inmueble/88944961/,"Calle Suárez de la Riva, 5",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36038,-5.84745,380000,264,True,5.0,True,5
+88931262,https://www.idealista.com/inmueble/88931262/,"Calle Manuel García Conde, 9 -5",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3641128,-5.8459027,160000,89,True,3.0,False,2
+86648035,https://www.idealista.com/inmueble/86648035/,"COVADONGA, 5",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.364043,-5.8479715,110000,75,True,2.0,True,2
+82205384,https://www.idealista.com/inmueble/82205384/,"Calle Marqués de Teverga, Oviedo, 12",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.361977,-5.856136,99000,67,True,2.0,False,2
+91480692,https://www.idealista.com/inmueble/91480692/,"SUAREZ DE LA RIVA, 5",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36038,-5.84745,399000,264,True,5.0,True,4
+91470784,https://www.idealista.com/inmueble/91470784/,"JUAN MANUEL SANCHEZ OCAÑA, 7",Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3672353,-5.8206215,93500,67,True,2.0,True,2
+89914881,https://www.idealista.com/inmueble/89914881/,Calle Santa Clara,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3645756,-5.8477337,133000,50,True,5.0,True,1
+91308754,https://www.idealista.com/inmueble/91308754/,"cervantes, 12",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36292,-5.855703,299000,141,True,7.0,True,4
+91294878,https://www.idealista.com/inmueble/91294878/,"NOREÑA, 19",Urb. TORREJARDIN,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,43.3708082,-5.8208173,100000,77,True,3.0,True,2
+91220203,https://www.idealista.com/inmueble/91220203/,"Calle Vázquez de Mella, 77",Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3687528,-5.8671626,185000,87,True,6.0,True,3
+90679417,https://www.idealista.com/inmueble/90679417/,"Calle José María Marcilla, 21",Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35099,-5.8704599,118000,62,True,,True,1
+90812132,https://www.idealista.com/inmueble/90812132/,"San Mateo, 28",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.35618,-5.83876,69990,80,True,3.0,True,3
+90638682,https://www.idealista.com/inmueble/90638682/,"Calle Jose Manuel Fuente 'El Tarángu', 5",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3799755,-5.8287865,135000,89,True,3.0,True,2
+90592865,https://www.idealista.com/inmueble/90592865/,"Carreño Miranda, 7",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36073,-5.86098,80000,45,True,7.0,True,1
+90479840,https://www.idealista.com/inmueble/90479840/,"Avenida Julián Clavería, 4",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3574757,-5.8708884,91990,78,True,3.0,True,3
+90461106,https://www.idealista.com/inmueble/90461106/,Calle Coronel Bobes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3707499,-5.8516947,115000,100,True,2.0,True,3
+90398702,https://www.idealista.com/inmueble/90398702/,"Calle BUENOS AIRES, 5",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37309,-5.83396,82000,117,False,,True,4
+90206756,https://www.idealista.com/inmueble/90206756/,"Calle Nueve de Mayo, 24",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.366052,-5.851143,181000,105,True,2.0,False,2
+40366970,https://www.idealista.com/inmueble/40366970/,Avenida de Bruselas,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3726754,-5.8283089,116217,86,,4.0,True,2
+89740204,https://www.idealista.com/inmueble/89740204/,"Calle Montes del Sueve, 31",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3688974,-5.8563627,115000,97,True,5.0,True,3
+88630042,https://www.idealista.com/inmueble/88630042/,"mejico, 17",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373687,-5.833011,129500,79,True,5.0,True,2
+87830335,https://www.idealista.com/inmueble/87830335/,"Barrio Cataluña, 40",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3421963,-5.9823618,28000,64,,1.0,True,2
+91500261,https://www.idealista.com/inmueble/91500261/,,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365696,-5.8455439,350000,138,True,6.0,,3
+91358631,https://www.idealista.com/inmueble/91358631/,Urb. Centro Civico,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3580655,-5.8577804,249000,152,True,2.0,True,6
+91480702,https://www.idealista.com/inmueble/91480702/,Urb. Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3631,-5.8619916,120000,78,True,3.0,True,2
+90936764,https://www.idealista.com/inmueble/90936764/,Calle Lorenzo Abruñedo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3682582,-5.8566031,59900,83,True,1.0,True,3
+90678052,https://www.idealista.com/inmueble/90678052/,pintor ribera,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.371189,-5.8378129,115000,90,True,1.0,True,3
+90182946,https://www.idealista.com/inmueble/90182946/,"covadonga, 28",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3646057,-5.8491903,86900,69,True,4.0,False,3
+90157532,https://www.idealista.com/inmueble/90157532/,"Calle General Yagüe, 3",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3624733,-5.8533552,229000,103,True,1.0,True,3
+90155083,https://www.idealista.com/inmueble/90155083/,"Calle Suárez de la Riva, 5",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.36038,-5.84745,440000,264,True,5.0,True,5
+89346244,https://www.idealista.com/inmueble/89346244/,"Calle Río San Pedro, 9",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.367097,-5.852232,110000,90,True,6.0,False,3
+89266867,https://www.idealista.com/inmueble/89266867/,"Calle de Manuel Cueto Guisasola, 1",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3633029,-5.8643605,129000,130,True,3.0,True,3
+89254030,https://www.idealista.com/inmueble/89254030/,"Calle Manuel Pedregal, 11",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.366359,-5.85244,162000,98,,3.0,True,4
+89223828,https://www.idealista.com/inmueble/89223828/,"Calle Cervantes, 8",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3626617,-5.8555784,700000,450,True,7.0,True,5
+88450302,https://www.idealista.com/inmueble/88450302/,,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.36235,-5.85413,370000,144,True,3.0,True,3
+87770067,https://www.idealista.com/inmueble/87770067/,Calle del General Elorza,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3661033,-5.8451875,122000,68,True,5.0,True,2
+87286431,https://www.idealista.com/inmueble/87286431/,Calle Montes del Sueve,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3705592,-5.8549723,119900,85,True,6.0,,2
+86590085,https://www.idealista.com/inmueble/86590085/,Calle Tenderina,Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3672786,-5.8242272,72000,71,True,2.0,True,3
+89908130,https://www.idealista.com/inmueble/89908130/,"Calle Valparaiso, 9",Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.35973,-5.83083,129900,78,True,6.0,True,2
+91368417,https://www.idealista.com/inmueble/91368417/,"Calle Gozon, 1",Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367497,-5.869015,145000,85,True,6.0,True,2
+91350904,https://www.idealista.com/inmueble/91350904/,"Calle Santa Susana, 3",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3578593,-5.8484303,255000,105,True,7.0,True,3
+91320862,https://www.idealista.com/inmueble/91320862/,"Lugar el Medio, 9",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3420051,-5.844932,340000,335,,,,5
+91253810,https://www.idealista.com/inmueble/91253810/,"Calle Latores, 56",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3465632,-5.8802671,409000,420,,,,4
+91262284,https://www.idealista.com/inmueble/91262284/,habana,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3731831,-5.8339677,134999,85,True,5.0,True,2
+90736974,https://www.idealista.com/inmueble/90736974/,"Calle Facetos, 12",Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3643688,-5.8658717,120000,62,True,3.0,False,3
+91190559,https://www.idealista.com/inmueble/91190559/,"Calle Méjico, 13",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3738312,-5.8337012,198000,114,True,1.0,True,4
+90148659,https://www.idealista.com/inmueble/90148659/,"Calle Fuente de la Plata, 39",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364837,-5.872943,119900,83,True,4.0,True,2
+91509641,https://www.idealista.com/inmueble/91509641/,Calle Manuel Estrada,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3522388,-5.8662975,199000,97,True,4.0,True,2
+91182816,https://www.idealista.com/inmueble/91182816/,Calle Pedro Antonio Menéndez,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3621733,-5.8542199,160000,83,True,3.0,True,1
+91006813,https://www.idealista.com/inmueble/91006813/,"TITO BUSTILLO, 6",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3670165,-5.8557752,230000,104,True,3.0,True,3
+90984527,https://www.idealista.com/inmueble/90984527/,"JUAN ANTONIO VALLEJO NAJERA, 1",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3648338,-5.8719538,116000,82,True,1.0,True,2
+90983410,https://www.idealista.com/inmueble/90983410/,"ARROYO VAQUEROS, 4",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3837465,-5.8145031,105000,66,True,5.0,True,2
+90879008,https://www.idealista.com/inmueble/90879008/,Caserío la Cruz,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.362641,-5.914744,79000,39,True,3.0,True,1
+90695355,https://www.idealista.com/inmueble/90695355/,"Calle Belarmino Cabal, 9",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.372405,-5.8528177,190000,120,True,1.0,True,3
+90389070,https://www.idealista.com/inmueble/90389070/,"Aldea Feleches, 19",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3599805,-5.9521349,218000,123,,,,4
+90382077,https://www.idealista.com/inmueble/90382077/,"SAN PEDRO MESTALLON, 12",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3579839,-5.8405351,83000,88,True,1.0,False,3
+90360737,https://www.idealista.com/inmueble/90360737/,"Cardenal Alvarez Martínez, 1",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3841707,-5.8205488,99900,79,True,1.0,True,2
+90318615,https://www.idealista.com/inmueble/90318615/,"Calle Augusto Junquera, 39",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3708632,-5.855023,85000,64,True,4.0,True,2
+90278814,https://www.idealista.com/inmueble/90278814/,"SATURNINO FRESNO, 8",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3707344,-5.8420566,79000,68,True,1.0,True,2
+90153726,https://www.idealista.com/inmueble/90153726/,"TOLEO, 27",Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.391216,-5.8303188,250000,190,,,,3
+90140439,https://www.idealista.com/inmueble/90140439/,"Calle Pérez de la Sala, 21",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3578301,-5.8502072,135000,72,True,1.0,True,1
+90046447,https://www.idealista.com/inmueble/90046447/,"Calle Juan Antonio Vallejo-Nágera Botas, 6",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3646572,-5.8720679,125000,100,True,2.0,True,3
+90045575,https://www.idealista.com/inmueble/90045575/,"TEVERGA, 7",Barrio Las Campas,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.365479,-5.8849584,71000,80,True,,True,2
+89440486,https://www.idealista.com/inmueble/89440486/,"Calle Juan Escalante de Mendoza, 10",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.35958,-5.84051,159000,86,True,5.0,True,3
+89365912,https://www.idealista.com/inmueble/89365912/,Calle Arquitecto Reguera,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.362593,-5.853863,154500,68,True,8.0,True,2
+87321576,https://www.idealista.com/inmueble/87321576/,"Paseo de la Florida, 2",Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368626,-5.868509,185000,92,True,6.0,True,3
+88989088,https://www.idealista.com/inmueble/88989088/,"General Elorza, 89",Urb. CENTRO,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,43.3671404,-5.8517871,179000,113,True,2.0,True,4
+88901309,https://www.idealista.com/inmueble/88901309/,"AUGUSTO JUNQUERA, 23",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3705874,-5.8541388,79000,63,True,3.0,True,2
+88792619,https://www.idealista.com/inmueble/88792619/,Calle José Echegaray,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364754,-5.864795,79000,41,True,4.0,True,1
+88562110,https://www.idealista.com/inmueble/88562110/,"Calle Jesús Castro, 5",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.38623,-5.8178,120000,96,True,5.0,True,3
+88505103,https://www.idealista.com/inmueble/88505103/,"LEOPOLDO ALAS HIJO, 15",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3580849,-5.8712255,94500,70,True,3.0,True,2
+88300861,https://www.idealista.com/inmueble/88300861/,"Calle San Bernabé, 2 -8",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.364661,-5.84978,140000,58,True,1.0,True,1
+88214721,https://www.idealista.com/inmueble/88214721/,"CERVANTES, 17",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3629612,-5.8563627,289000,160,True,1.0,True,4
+88098686,https://www.idealista.com/inmueble/88098686/,Calle Cervantes,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3610344,-5.8540837,320000,133,True,8.0,True,2
+87866922,https://www.idealista.com/inmueble/87866922/,"HEVIA BOLAÑOS, 5",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.35296,-5.84376,53000,91,True,1.0,False,3
+86921740,https://www.idealista.com/inmueble/86921740/,"FERNANDO ALONSO, 41",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3551116,-5.8427011,93000,74,True,2.0,True,3
+86934226,https://www.idealista.com/inmueble/86934226/,Calle José María Marcilla,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.352919,-5.8703993,195000,98,False,1.0,True,3
+85454005,https://www.idealista.com/inmueble/85454005/,"Calle Santa Susana, 15",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.358434,-5.849005,380000,132,True,5.0,True,3
+85319651,https://www.idealista.com/inmueble/85319651/,León y Escosura,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3625107,-5.862288,180000,95,True,3.0,True,3
+85323494,https://www.idealista.com/inmueble/85323494/,"Calle Vital Aza, 21",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3715504,-5.8567361,249000,200,,,,7
+30077296,https://www.idealista.com/inmueble/30077296/,"Calle Cervantes, 7",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.361899,-5.8551342,210000,108,True,7.0,True,4
+84196003,https://www.idealista.com/inmueble/84196003/,Prado de la Vega s/n,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3773117,-5.8177847,118693,94,True,1.0,True,2
+84196004,https://www.idealista.com/inmueble/84196004/,Prado de la Vega s/n,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.377312,-5.817785,147983,118,True,1.0,True,3
+84195412,https://www.idealista.com/inmueble/84195412/,Prado de la Vega s/n,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3773117,-5.8177847,122480,90,True,1.0,True,2
+83821233,https://www.idealista.com/inmueble/83821233/,"sor blanca argote, 7",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3589757,-5.9149766,75958,62,True,1.0,True,2
+81556766,https://www.idealista.com/inmueble/81556766/,Calle Menéndez y Pelayo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3719929,-5.8519693,196000,118,True,6.0,True,3
+36714988,https://www.idealista.com/inmueble/36714988/,"Calle Guillermo Estrada, 11",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3581147,-5.8595586,129000,106,True,5.0,True,4
+91532672,https://www.idealista.com/inmueble/91532672/,Calle Marqués de Teverga,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.36305,-5.85493,370000,162,True,3.0,True,3
+91529797,https://www.idealista.com/inmueble/91529797/,Calle Corredoria Alta,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3829642,-5.8251627,60000,77,False,2.0,True,3
+91455642,https://www.idealista.com/inmueble/91455642/,Calle Muñoz Degraín,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3546907,-5.8461511,327000,120,True,8.0,True,4
+91444712,https://www.idealista.com/inmueble/91444712/,Calle Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3625408,-5.8540818,350000,153,True,5.0,True,3
+91395942,https://www.idealista.com/inmueble/91395942/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.368683,-5.852394,160000,120,True,3.0,True,4
+91399078,https://www.idealista.com/inmueble/91399078/,Calle Nueve de Mayo,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3663388,-5.8511086,249500,111,True,5.0,True,4
+90212928,https://www.idealista.com/inmueble/90212928/,Calle Pérez de la Sala,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3553863,-5.8514019,130000,80,True,2.0,True,3
+91287099,https://www.idealista.com/inmueble/91287099/,"Calle Bermudo I el Diácono, 2",Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3667935,-5.8695556,167000,104,True,2.0,True,4
+91121807,https://www.idealista.com/inmueble/91121807/,Calle Santiago de Compostela,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37614,-5.85589,105000,48,True,1.0,True,1
+91243184,https://www.idealista.com/inmueble/91243184/,Av. Santander,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3643899,-5.85478,300000,110,True,4.0,True,3
+91236885,https://www.idealista.com/inmueble/91236885/,Avenida Hermanos Menéndez Pidal,Barrio Llamaquique,Distrito Centro-Casco Histórico,Oviedo,43.357548,-5.857174,159900,105,True,2.0,True,3
+91231684,https://www.idealista.com/inmueble/91231684/,Avenida del Mar,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37056,-5.83598,54900,46,True,5.0,True,3
+90938182,https://www.idealista.com/inmueble/90938182/,Avenida de Galicia,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.360984,-5.8633122,265000,90,True,1.0,True,3
+91470159,https://www.idealista.com/inmueble/91470159/,,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3584066,-5.8573519,300000,129,True,5.0,,4
+90863264,https://www.idealista.com/inmueble/90863264/,Calle Fray Ceferino,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3679825,-5.8470235,156000,78,True,7.0,True,3
+90632158,https://www.idealista.com/inmueble/90632158/,Calle Alonso de Quintanilla,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3634038,-5.8459097,75000,56,True,4.0,False,1
+90137878,https://www.idealista.com/inmueble/90137878/,"Calle General Zuvillaga, 16",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3627688,-5.8578884,89500,77,True,1.0,False,3
+87658043,https://www.idealista.com/inmueble/87658043/,Calle San Melchor García Sampedro,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.359285,-5.833695,67000,98,True,4.0,True,3
+91520633,https://www.idealista.com/inmueble/91520633/,Calle Tito Bustillo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3682728,-5.8581295,75000,70,True,1.0,True,1
+91342924,https://www.idealista.com/inmueble/91342924/,,Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3692266,-5.818343,121200,83,True,2.0,True,3
+91144167,https://www.idealista.com/inmueble/91144167/,"Calle RIO NARCEA, 41",Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.368834,-5.823759,62000,57,False,3.0,True,3
+91005487,https://www.idealista.com/inmueble/91005487/,"Avenida Colon, 5",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,210000,66,True,6.0,True,2
+91104773,https://www.idealista.com/inmueble/91104773/,"Camino Villamar, 8",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3615602,-5.9103968,220000,242,,,,4
+91066588,https://www.idealista.com/inmueble/91066588/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37666,-5.83691,121000,65,True,3.0,True,1
+90879011,https://www.idealista.com/inmueble/90879011/,"Calle Llano Ponte, 20",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.367975,-5.847954,119000,78,True,4.0,True,3
+90927473,https://www.idealista.com/inmueble/90927473/,Travesía Cida,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3576395,-5.9220462,460000,370,,,,4
+90885866,https://www.idealista.com/inmueble/90885866/,"Calle de Luis Gracia Iberni, 1",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36394,-5.87596,112000,79,True,3.0,True,2
+90369992,https://www.idealista.com/inmueble/90369992/,"Calle de Eduardo de Fraga Torrejón, 8",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.38349,-5.8214,135369,89,True,5.0,True,3
+90816342,https://www.idealista.com/inmueble/90816342/,"Calle Jose Manuel Fuente 'El Tarángu', 15",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37955,-5.828407,135000,81,True,,False,3
+84208603,https://www.idealista.com/inmueble/84208603/,"Calle Sauces, Oviedo, 7",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3700255,-5.8442237,179000,130,True,4.0,True,4
+90626677,https://www.idealista.com/inmueble/90626677/,"Calle Fray Ceferino, 49 C",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.369155,-5.849849,165000,81,True,4.0,True,3
+90750355,https://www.idealista.com/inmueble/90750355/,"Calle Facetos, 37",Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36236,-5.8666,132000,93,True,3.0,False,3
+88162575,https://www.idealista.com/inmueble/88162575/,"José García Nieto, 22 E",Urb. La Bolgachina,Distrito La Manjoya-Parroquias Sur,Oviedo,43.3472195,-5.849216,299000,216,,,,4
+90331949,https://www.idealista.com/inmueble/90331949/,"Calle Doña Iluminada, 6",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3836395,-5.8169993,53000,79,False,2.0,True,3
+90037945,https://www.idealista.com/inmueble/90037945/,"Calle Fray Ceferino, 9",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365701,-5.852469,199960,137,True,3.0,False,4
+89008630,https://www.idealista.com/inmueble/89008630/,"Calle Marqués de Pidal, 11",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3638731,-5.8532298,190000,120,True,1.0,False,4
+90492326,https://www.idealista.com/inmueble/90492326/,"Calle Emigrante, 12",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3561477,-5.8382088,380000,210,,,,5
+90484922,https://www.idealista.com/inmueble/90484922/,Calle Coronel Bobes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3704499,-5.8548947,140000,94,True,1.0,True,3
+90341961,https://www.idealista.com/inmueble/90341961/,"Calle Manuel de Falla, 22",Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3711368,-5.8419479,64000,81,True,5.0,False,2
+90310640,https://www.idealista.com/inmueble/90310640/,"Calle Tenderina Baja, 204",Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3686861,-5.8213091,82000,88,True,4.0,True,3
+90005152,https://www.idealista.com/inmueble/90005152/,"Santa Eulalia Manzaneda, 18",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.31736,-5.812642,140000,189,,,,3
+89294449,https://www.idealista.com/inmueble/89294449/,"Avenida de las Segadas, 10",Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.352823,-5.857364,115000,73,False,4.0,True,3
+89856856,https://www.idealista.com/inmueble/89856856/,"Lugar Villamiana, 133",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3611496,-5.7995005,188000,80,,,,1
+89728903,https://www.idealista.com/inmueble/89728903/,"Avenida Valentín Masip, 22",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,99952,90,True,2.0,False,3
+89286261,https://www.idealista.com/inmueble/89286261/,"Calle la estrecha, 46",Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3804,-5.82763,111000,101,True,4.0,True,3
+89734588,https://www.idealista.com/inmueble/89734588/,,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3600998,-5.857639,375000,133,True,4.0,True,4
+89426292,https://www.idealista.com/inmueble/89426292/,"Santa Ana de Abuli, 27",Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.36448,-5.819614,310000,161,,,,4
+89033732,https://www.idealista.com/inmueble/89033732/,"Calle Mon, 25",Barrio Casco Histórico,Distrito Centro-Casco Histórico,Oviedo,43.3611062,-5.8435952,57500,37,False,1.0,True,1
+88907120,https://www.idealista.com/inmueble/88907120/,"Calle Jaime Truyols Santonja, 3",Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.384021,-5.819108,139900,91,True,6.0,True,3
+88713812,https://www.idealista.com/inmueble/88713812/,"Calle Periodistas Cepeda, 6",Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364149,-5.873802,130000,85,True,4.0,True,3
+88713046,https://www.idealista.com/inmueble/88713046/,"Calle Río Ibias, 12",Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.367343,-5.828725,114500,82,True,1.0,True,3
+87990598,https://www.idealista.com/inmueble/87990598/,"Calle Oscura, 33",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3593737,-5.8429909,179000,97,False,4.0,True,2
+87640265,https://www.idealista.com/inmueble/87640265/,"Calle Samuel Sánchez, 3",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3631506,-5.8591171,90000,110,False,0.5,True,5
+87454397,https://www.idealista.com/inmueble/87454397/,"Barrio Fitoria, 45",Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.3783181,-5.8469896,488000,496,,,,4
+87359783,https://www.idealista.com/inmueble/87359783/,"Calle Arzobispo Guisasola, 18",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.357175,-5.84327,143000,96,True,6.0,True,3
+86385471,https://www.idealista.com/inmueble/86385471/,Calle del Padre Buenaventura de Paredes,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3687415,-5.8460426,179000,89,True,5.0,True,3
+90965546,https://www.idealista.com/inmueble/90965546/,"Plaza Carbayón, 7",Urb. Centro-Hacienda,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,43.3636502,-5.8467828,179500,73,True,7.0,True,2
+91249464,https://www.idealista.com/inmueble/91249464/,Calle Periodistas Cepeda,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36525,-5.873798,135000,95,True,1.0,,3
+91372861,https://www.idealista.com/inmueble/91372861/,Calle Fuente de la Plata,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3658378,-5.8786459,115000,110,True,3.0,,3
+91356062,https://www.idealista.com/inmueble/91356062/,Avenida de Galicia,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3605257,-5.8604133,150000,80,True,4.0,True,3
+89971485,https://www.idealista.com/inmueble/89971485/,"Calle la Lila, 27",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3666626,-5.8473114,84000,57,True,3.0,True,1
+85966508,https://www.idealista.com/inmueble/85966508/,"Melchor García Sampedro, 65",Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.357027,-5.835754,58000,84,False,3.0,True,3
+91444999,https://www.idealista.com/inmueble/91444999/,Calle Manuel Fernández Avello,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3703021,-5.8422999,210000,128,True,5.0,True,4
+91409839,https://www.idealista.com/inmueble/91409839/,Calle Puerto Pontón,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3730761,-5.8366425,73000,76,True,1.0,False,2
+91394394,https://www.idealista.com/inmueble/91394394/,Calle Julio González Pola,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.363395,-5.8611964,225000,115,True,5.0,True,3
+91302305,https://www.idealista.com/inmueble/91302305/,teverga,Barrio Las Campas,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3663627,-5.8860033,118000,85,True,4.0,True,3
+91131640,https://www.idealista.com/inmueble/91131640/,Calle San Melchor García Sampedro,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.357659,-5.838405,96000,94,True,1.0,True,3
+91069629,https://www.idealista.com/inmueble/91069629/,Avenida de Pumarín,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3695296,-5.8459197,85000,90,False,3.0,True,4
+91006230,https://www.idealista.com/inmueble/91006230/,Ventura Rodriguez,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3615578,-5.8523721,515000,170,True,5.0,True,4
+91005255,https://www.idealista.com/inmueble/91005255/,Avenida de Galicia,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.360826,-5.860013,150000,80,True,4.0,True,2
+91001245,https://www.idealista.com/inmueble/91001245/,Av. de Galicia,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3623257,-5.8608133,150000,93,True,4.0,True,3
+90103579,https://www.idealista.com/inmueble/90103579/,Calle José Echegaray,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3651152,-5.8684786,40000,75,False,4.0,True,2
+90988691,https://www.idealista.com/inmueble/90988691/,Calle Coronel Bobes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3691533,-5.852415,163000,131,True,5.0,True,3
+90972122,https://www.idealista.com/inmueble/90972122/,Calle de la Independencia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3625897,-5.8564883,255000,131,True,2.0,True,3
+90965283,https://www.idealista.com/inmueble/90965283/,Avenida Hermanos Menéndez Pidal,Barrio Llamaquique,Distrito Centro-Casco Histórico,Oviedo,43.3579476,-5.8562737,224500,109,True,7.0,True,4
+90936060,https://www.idealista.com/inmueble/90936060/,Argañosa,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3653981,-5.8627338,150000,84,True,5.0,True,2
+90366580,https://www.idealista.com/inmueble/90366580/,Calle Monte Gamonal,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367122,-5.854648,59000,56,True,5.0,True,3
+90914924,https://www.idealista.com/inmueble/90914924/,Calle Marqués de Teverga,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3615588,-5.8539378,285000,128,True,5.0,True,4
+90914788,https://www.idealista.com/inmueble/90914788/,Calle Celestino Álvarez,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.354647,-5.8666767,108000,42,True,2.0,True,1
+90869555,https://www.idealista.com/inmueble/90869555/,Lugar las Caldas,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.333388,-5.922135,385000,450,,,,4
+90868408,https://www.idealista.com/inmueble/90868408/,Calle Pedro Antonio Menéndez,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3621733,-5.8538199,239000,88,True,3.0,True,2
+90825899,https://www.idealista.com/inmueble/90825899/,Calle Puerto de Pajares,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3704701,-5.8358206,64000,73,,2.0,,2
+90825897,https://www.idealista.com/inmueble/90825897/,Calle de las Maestras de la República,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3691062,-5.844471,39000,38,,3.0,True,2
+90824816,https://www.idealista.com/inmueble/90824816/,Calle Félix Aramburu,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.356393,-5.8507563,180000,105,True,5.0,True,4
+90737110,https://www.idealista.com/inmueble/90737110/,Calle Bernardo Casielles,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3635501,-5.8684842,77900,60,True,5.0,True,3
+90706006,https://www.idealista.com/inmueble/90706006/,Calle Torrecerredo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3697409,-5.8565145,120000,80,True,2.0,True,3
+90696142,https://www.idealista.com/inmueble/90696142/,"Calle Catedrático Francisco Beceña, 7",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3577181,-5.8703184,290000,113,True,5.0,True,4
+90681336,https://www.idealista.com/inmueble/90681336/,Calle Belarmino Cabal,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.371649,-5.852762,189900,100,True,1.0,True,3
+90559998,https://www.idealista.com/inmueble/90559998/,cuyences,Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.390716,-5.8323188,249000,220,,,,3
+90511695,https://www.idealista.com/inmueble/90511695/,Avenida de los Monumentos,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3698787,-5.8606958,330000,140,,,,3
+88599736,https://www.idealista.com/inmueble/88599736/,Calle Victor Hevia,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368369,-5.863813,70000,65,True,2.0,True,3
+90119512,https://www.idealista.com/inmueble/90119512/,Avenida de Pando,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3738167,-5.8444808,85000,80,False,1.0,True,3
+89745353,https://www.idealista.com/inmueble/89745353/,Parque Manjoya,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.33043,-5.860375,599000,546,,,,4
+90218296,https://www.idealista.com/inmueble/90218296/,Calle Vázquez de Mella,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3687904,-5.8685519,60000,55,,,True,2
+90259073,https://www.idealista.com/inmueble/90259073/,Calle Alfredo Blanco,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,,,60000,80,,1.0,True,3
+90232669,https://www.idealista.com/inmueble/90232669/,Calle Torrecerredo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3707915,-5.8531813,149000,70,True,5.0,True,2
+90140987,https://www.idealista.com/inmueble/90140987/,Calle González Besada,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3543864,-5.8520474,120000,79,True,4.0,True,3
+90109288,https://www.idealista.com/inmueble/90109288/,Calle Belarmino Cabal,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.372905,-5.851818,190000,100,True,1.0,,3
+90099899,https://www.idealista.com/inmueble/90099899/,Calle Gloria Fuertes,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3644299,-5.86401,136000,85,True,7.0,True,3
+90046935,https://www.idealista.com/inmueble/90046935/,Calle Aurora de Albornoz,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36863,-5.86825,135000,95,True,1.0,True,3
+89972969,https://www.idealista.com/inmueble/89972969/,Calle Lola Mateos,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36239,-5.86822,160000,123,True,1.0,True,4
+82850924,https://www.idealista.com/inmueble/82850924/,Barrio Fitoria,Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.3836878,-5.8423361,265000,150,,,,3
+89884007,https://www.idealista.com/inmueble/89884007/,Calle Ricardo Montes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3688348,-5.8523329,95000,78,True,2.0,True,1
+89863869,https://www.idealista.com/inmueble/89863869/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3747963,-5.8363404,85000,65,True,3.0,True,2
+89785494,https://www.idealista.com/inmueble/89785494/,Calle Ángel Muñiz Toca,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3543022,-5.8573866,139000,84,True,4.0,False,3
+89711786,https://www.idealista.com/inmueble/89711786/,Calle Lorenzo Abruñedo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37059,-5.85677,120000,71,True,1.0,,2
+89428384,https://www.idealista.com/inmueble/89428384/,Lugar Latores,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3449506,-5.8788922,700000,499,,,,5
+89619451,https://www.idealista.com/inmueble/89619451/,Calle ARZOBISPO LAUZURICA,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3502663,-5.8399192,54000,67,False,2.0,True,3
+88770526,https://www.idealista.com/inmueble/88770526/,Calle González Besada,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3540482,-5.8537776,105000,114,True,1.0,True,4
+88663978,https://www.idealista.com/inmueble/88663978/,Avenida Torrelavega,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3630483,-5.835591,139900,143,True,7.0,True,4
+88972274,https://www.idealista.com/inmueble/88972274/,Calle de la Independencia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.36509,-5.859288,255000,131,True,2.0,True,3
+88953662,https://www.idealista.com/inmueble/88953662/,Calle Manuel García Conde,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3621436,-5.8481699,128000,76,True,6.0,False,2
+88936442,https://www.idealista.com/inmueble/88936442/,Calle Doctor Casal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3646222,-5.8511887,195000,78,,1.0,,2
+88774207,https://www.idealista.com/inmueble/88774207/,Calle Arquitecto Tioda,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.363204,-5.860546,56000,60,False,0.5,True,3
+88774724,https://www.idealista.com/inmueble/88774724/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.36751,-5.85123,485000,141,True,6.0,True,3
+88757802,https://www.idealista.com/inmueble/88757802/,francisco pintado fe,Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.394657,-5.82774,91400,75,True,2.0,True,2
+88747333,https://www.idealista.com/inmueble/88747333/,Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3644386,-5.849623,449000,190,True,11.0,True,4
+88743085,https://www.idealista.com/inmueble/88743085/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.36335,-5.84846,159000,63,True,7.0,,2
+88573222,https://www.idealista.com/inmueble/88573222/,Calle Leopoldo Alas,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3564836,-5.8454184,239000,101,True,5.0,True,3
+88494273,https://www.idealista.com/inmueble/88494273/,Plaza Gabino Díaz Merchán,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3685669,-5.8683093,188000,114,True,1.0,True,5
+82850748,https://www.idealista.com/inmueble/82850748/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3675386,-5.851723,495000,160,True,11.0,True,4
+84887138,https://www.idealista.com/inmueble/84887138/,Calle Bermúdez de Castro,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3682806,-5.8407829,117000,90,True,5.0,True,3
+88443837,https://www.idealista.com/inmueble/88443837/,Avenida de Galicia,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.361376,-5.859003,325000,200,True,6.0,,5
+88434977,https://www.idealista.com/inmueble/88434977/,Calle Caveda,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3669375,-5.8498583,123900,89,True,3.0,True,1
+88426367,https://www.idealista.com/inmueble/88426367/,Calle Gloria Fuertes,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.365369,-5.863722,136000,68,True,7.0,True,3
+39817884,https://www.idealista.com/inmueble/39817884/,Calle Río Deva,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3679524,-5.8325374,42000,84,,3.0,,2
+88017136,https://www.idealista.com/inmueble/88017136/,Avenida Hermanos Menéndez Pidal,Barrio Llamaquique,Distrito Centro-Casco Histórico,Oviedo,43.357917,-5.855582,159990,124,True,4.0,True,4
+82850711,https://www.idealista.com/inmueble/82850711/,Calle José María Martínez Cachero,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3649532,-5.8740361,98000,65,True,3.0,True,2
+87971338,https://www.idealista.com/inmueble/87971338/,Olivares,Barrio Olivares,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3611229,-5.8782902,520000,470,,,,5
+87897124,https://www.idealista.com/inmueble/87897124/,Calle Suárez de la Riva,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3624778,-5.8455984,340000,150,True,7.0,True,4
+82850852,https://www.idealista.com/inmueble/82850852/,Calle Severo Ochoa,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3562769,-5.856759,185000,130,True,5.0,True,4
+82850774,https://www.idealista.com/inmueble/82850774/,Plaza Olimpica,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36583,-5.87973,176500,78,True,5.0,True,2
+82850716,https://www.idealista.com/inmueble/82850716/,Calle de Víctor Sáenz,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.356093,-5.856808,129900,85,True,2.0,,3
+82850473,https://www.idealista.com/inmueble/82850473/,Calle Latores,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",,,630000,380,,,,5
+87767984,https://www.idealista.com/inmueble/87767984/,Calle Lorenzo Abruñedo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3706683,-5.8545034,67000,78,True,2.0,,3
+87767963,https://www.idealista.com/inmueble/87767963/,Calle Victor Hevia,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,,,39000,70,,3.0,,3
+87629311,https://www.idealista.com/inmueble/87629311/,Calle Aurora de Albornoz,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36864,-5.86569,125000,83,True,4.0,True,3
+87287805,https://www.idealista.com/inmueble/87287805/,Calle Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.360667,-5.8535998,448000,155,True,4.0,,4
+87089414,https://www.idealista.com/inmueble/87089414/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.356902,-5.86904,99000,69,True,4.0,False,2
+86955452,https://www.idealista.com/inmueble/86955452/,Calle Milicias Nacionales,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.362062,-5.8507474,380000,140,True,6.0,,4
+86890243,https://www.idealista.com/inmueble/86890243/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,125000,114,True,7.0,,3
+86878747,https://www.idealista.com/inmueble/86878747/,Calle Padre Aller,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.366168,-5.864477,139000,120,True,3.0,,3
+86762291,https://www.idealista.com/inmueble/86762291/,Santa Susana,Urb. Parque San Francisco,Barrio Fontán,Distrito Centro-Casco Histórico,43.359259,-5.849576,249000,120,True,3.0,True,3
+86543274,https://www.idealista.com/inmueble/86543274/,Calle Guillermo Estrada,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35574,-5.859996,158000,95,True,7.0,True,3
+85472253,https://www.idealista.com/inmueble/85472253/,Calle Doctor Casal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,,,390000,149,True,3.0,True,3
+85241118,https://www.idealista.com/inmueble/85241118/,Avenida Cristo de las Cadenas,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3538048,-5.8752726,139900,90,True,2.0,True,3
+85051538,https://www.idealista.com/inmueble/85051538/,"Plaza de América, Oviedo",Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3619354,-5.8584974,144500,66,True,5.0,False,2
+85033929,https://www.idealista.com/inmueble/85033929/,"Calle Carreño Miranda, Oviedo",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3595788,-5.8598601,144800,71,True,2.0,True,2
+84978335,https://www.idealista.com/inmueble/84978335/,Calle Velasquita Giráldez,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.3539296,-5.8382038,74000,82,True,4.0,True,4
+84635185,https://www.idealista.com/inmueble/84635185/,Calle Augusto Junquera,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,,,79000,63,True,3.0,,2
+84612228,https://www.idealista.com/inmueble/84612228/,"Calle Viseu, Oviedo, 30",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,,,80000,48,True,3.0,True,1
+84590505,https://www.idealista.com/inmueble/84590505/,Calle Fray Ceferino,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,,,138000,82,True,5.0,,3
+82850803,https://www.idealista.com/inmueble/82850803/,Plaza San Miguel,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,,,450000,206,True,3.0,True,5
+84117085,https://www.idealista.com/inmueble/84117085/,Camino Real,Barrio Colloto,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.377032,-5.79596,139000,83,True,1.0,,2
+83901743,https://www.idealista.com/inmueble/83901743/,Calle Montes del Sueve,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368516,-5.858477,57000,75,False,1.0,True,3
+83424894,https://www.idealista.com/inmueble/83424894/,Calle Ricardo Montes,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3702054,-5.8541856,98000,66,True,4.0,,2
+82850454,https://www.idealista.com/inmueble/82850454/,Carretera de Villamiana,Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3702572,-5.8190421,748000,1.103,,,,10
+82850891,https://www.idealista.com/inmueble/82850891/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.363372,-5.848726,250000,115,True,5.0,True,3
+82850841,https://www.idealista.com/inmueble/82850841/,Calle Santa Susana,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.358221,-5.849585,420000,120,True,8.0,True,2
+82850539,https://www.idealista.com/inmueble/82850539/,Avenida Torrelavega,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3626358,-5.8378291,92000,58,True,3.0,False,2
+82692060,https://www.idealista.com/inmueble/82692060/,Calle San Pedro de Mestallón,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3582953,-5.8393702,119000,88,True,2.0,True,3
+82487300,https://www.idealista.com/inmueble/82487300/,Calle José María Marcilla,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,164000,140,True,,,3
+81514267,https://www.idealista.com/inmueble/81514267/,Calle Bermúdez de Castro,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.372034,-5.83711,36000,72,,5.0,True,3
+81175109,https://www.idealista.com/inmueble/81175109/,Avenida de Galicia,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,,,390000,170,True,2.0,True,5
+40037762,https://www.idealista.com/inmueble/40037762/,Asturias,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3631785,-5.8579313,330000,150,True,3.0,True,4
+39958277,https://www.idealista.com/inmueble/39958277/,Calle Maximiliano Arboleya,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3671461,-5.8641587,63900,83,True,7.0,False,3
+88185681,https://www.idealista.com/inmueble/88185681/,Manuel Pedregal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3654,-5.852531,390000,185,True,2.0,True,4
+91304898,https://www.idealista.com/inmueble/91304898/,Carretera a San Claudio,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3625188,-5.9094781,295000,212,,,,4
+91219687,https://www.idealista.com/inmueble/91219687/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.365969,-5.853908,93000,51,True,4.0,True,1
+38244122,https://www.idealista.com/inmueble/38244122/,Calle Federico García Lorca,Barrio Llamaquique,Distrito Centro-Casco Histórico,Oviedo,43.3598246,-5.8523847,390000,250,True,2.0,True,6
+33789614,https://www.idealista.com/inmueble/33789614/,"Calle Viseu, 23",Urb. Prados de la Fuente,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,43.3736797,-5.8548627,139000,75,True,2.0,True,2
+88372421,https://www.idealista.com/inmueble/88372421/,Calle Vázquez de Mella,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.368517,-5.8644943,34000,61,False,,True,2
+88037328,https://www.idealista.com/inmueble/88037328/,Calle Teverga,Barrio Las Campas,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367371,-5.883467,79900,69,True,,True,2
+91087280,https://www.idealista.com/inmueble/91087280/,Calle la Media Legua,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.38463,-5.81418,150000,92,True,5.0,True,3
+91000905,https://www.idealista.com/inmueble/91000905/,Calle del Postigo Bajo,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3599649,-5.8395658,169900,100,True,4.0,True,3
+90937093,https://www.idealista.com/inmueble/90937093/,Calle Gloria Fuertes,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.363592,-5.86251,290000,189,True,7.0,True,6
+90821745,https://www.idealista.com/inmueble/90821745/,Avenida del Mar,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,,,110000,99,True,2.0,True,2
+90760978,https://www.idealista.com/inmueble/90760978/,San Esteban de las Cruces,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3398982,-5.8111898,99000,210,,,,7
+86380630,https://www.idealista.com/inmueble/86380630/,quintaniella,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.321804,-5.806622,119000,220,,,,5
+90448881,https://www.idealista.com/inmueble/90448881/,"Brañes, 26",Distrito Parroquias Norte-Naranco,Oviedo,"Área de Oviedo, Asturias",43.409161,-5.911924,159000,170,,,,4
+89938247,https://www.idealista.com/inmueble/89938247/,benjamin ortiz,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3699348,-5.8439142,67000,75,True,3.0,True,3
+89069259,https://www.idealista.com/inmueble/89069259/,"Sacramento, 15",Urb. Urbanización Adoratrices,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,43.35573,-5.847871,150000,75,True,1.0,True,2
+88980157,https://www.idealista.com/inmueble/88980157/,oscura,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.36151,-5.84297,79000,50,True,2.0,True,1
+88565559,https://www.idealista.com/inmueble/88565559/,Calle Fraternidad,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,58000,58,True,1.0,False,2
+88564777,https://www.idealista.com/inmueble/88564777/,Calle Bermúdez de Castro,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.368481,-5.840583,117000,92,True,5.0,True,3
+88088608,https://www.idealista.com/inmueble/88088608/,avellanos,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.36823,-5.84528,385000,138,True,6.0,True,3
+87338619,https://www.idealista.com/inmueble/87338619/,Calle Charles Darwin,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.359966,-5.856808,325000,140,True,6.0,,4
+86656754,https://www.idealista.com/inmueble/86656754/,Calle División Azul,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.360231,-5.85864,185000,109,True,8.0,False,3
+91344615,https://www.idealista.com/inmueble/91344615/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3771791,-5.8348724,129000,60,True,15.0,True,2
+91344630,https://www.idealista.com/inmueble/91344630/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373979,-5.831072,131900,71,True,2.0,True,2
+90969255,https://www.idealista.com/inmueble/90969255/,Calle Alonso de Quintanilla,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.362805,-5.847912,75000,50,False,4.0,True,1
+83899612,https://www.idealista.com/inmueble/83899612/,Calle Manuel Pedregal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3677,-5.852131,390000,178,True,2.0,True,4
+90703276,https://www.idealista.com/inmueble/90703276/,Calle Ribera de Arriba,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.352479,-5.8704765,155000,86,True,5.0,True,2
+89945330,https://www.idealista.com/inmueble/89945330/,Plaza Longoria Carbajal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.366435,-5.850353,140000,89,True,3.0,True,1
+89939289,https://www.idealista.com/inmueble/89939289/,Paseo de la Florida,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3677,-5.870495,250000,130,True,2.0,True,4
+89706894,https://www.idealista.com/inmueble/89706894/,Asturias,Urb. CENTRO,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,43.3626218,-5.8566925,149000,70,True,2.0,True,2
+88985544,https://www.idealista.com/inmueble/88985544/,"Calle Pedro Masaveu, 1",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,,,172000,95,True,4.0,True,3
+88624501,https://www.idealista.com/inmueble/88624501/,Calle Arzobispo Guisasola,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3534808,-5.8432146,175000,160,True,2.0,True,4
+85867690,https://www.idealista.com/inmueble/85867690/,Gozón,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369098,-5.87244,197000,107,True,2.0,True,4
+82136260,https://www.idealista.com/inmueble/82136260/,San Esteban,Urb. Los Porches,Distrito La Manjoya-Parroquias Sur,Oviedo,43.3521,-5.83388,450000,365,,,,5
+39691549,https://www.idealista.com/inmueble/39691549/,Calle foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3648706,-5.848568,139000,98,True,8.0,True,2
+38707771,https://www.idealista.com/inmueble/38707771/,,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3689081,-5.8431957,92000,79,True,1.0,True,3
+91292208,https://www.idealista.com/inmueble/91292208/,Urb. Parque del Campillin,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3566485,-5.8432177,65000,115,True,1.0,True,4
+91222809,https://www.idealista.com/inmueble/91222809/,Urb. Principios MASIP,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3621253,-5.8614799,120000,98,True,5.0,True,3
+90809467,https://www.idealista.com/inmueble/90809467/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3612659,-5.8631926,80000,47,True,,True,1
+90216026,https://www.idealista.com/inmueble/90216026/,Calle Foncalada,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.36643,-5.845087,110000,72,True,3.0,,2
+39125512,https://www.idealista.com/inmueble/39125512/,"Calle jacinto benavente, 16",Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.363991,-5.866455,63000,45,True,3.0,True,1
+90112683,https://www.idealista.com/inmueble/90112683/,"Calle Montes del Sueve, 40",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369148,-5.857023,120000,313,,,,6
+89979740,https://www.idealista.com/inmueble/89979740/,Calle Pedro Masaveu,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.352849,-5.844794,159000,80,True,1.0,,2
+89784076,https://www.idealista.com/inmueble/89784076/,Calle Juan Antonio Álvarez Rabanal s/n,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3747412,-5.832991,131000,92,True,2.0,True,2
+88492882,https://www.idealista.com/inmueble/88492882/,Calle Cervantes,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3616199,-5.8577031,235000,120,True,6.0,,3
+88283318,https://www.idealista.com/inmueble/88283318/,Calle Uria,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.365602,-5.852447,250000,168,True,1.0,,5
+87857643,https://www.idealista.com/inmueble/87857643/,"Calle Cabo Peñas, 1",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3716098,-5.8389484,91000,94,False,1.0,True,3
+86294131,https://www.idealista.com/inmueble/86294131/,"Calle Suárez Inclán, 28",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3478364,-5.9672238,19500,41,,2.0,True,1
+39578701,https://www.idealista.com/inmueble/39578701/,"Calle Julián Clavería, 14",Barrio Colloto,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.375962,-5.798677,1200000,1.300,,,,14
+91337781,https://www.idealista.com/inmueble/91337781/,Calle Montes del Sueve,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367454,-5.854724,109500,58,True,1.0,,2
+90458918,https://www.idealista.com/inmueble/90458918/,,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,,,129000,78,True,2.0,False,2
+91361661,https://www.idealista.com/inmueble/91361661/,"Calle Foncalada, 12",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3647541,-5.8466554,115000,95,True,6.0,True,3
+91529894,https://www.idealista.com/inmueble/91529894/,Calle Albeniz,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.36889,-5.84095,69000,70,True,7.0,True,3
+91473647,https://www.idealista.com/inmueble/91473647/,Calle Costa Verde,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37405,-5.83824,49000,72,,1.0,,3
+90990675,https://www.idealista.com/inmueble/90990675/,Calle Pepin Rodríguez,Barrio Colloto,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.375312,-5.8035419,129000,80,True,1.0,True,3
+88431007,https://www.idealista.com/inmueble/88431007/,Calle Padre Aller,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.367469,-5.86564,170000,115,True,7.0,True,4
+88007679,https://www.idealista.com/inmueble/88007679/,Paseo de la Florida,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3683725,-5.8755102,189000,100,True,3.0,,3
+91344614,https://www.idealista.com/inmueble/91344614/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3741791,-5.8339724,125000,71,True,15.0,True,2
+91344624,https://www.idealista.com/inmueble/91344624/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.375279,-5.832272,144100,75,True,12.0,True,2
+91234143,https://www.idealista.com/inmueble/91234143/,Caserio Rienda,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.33013,-5.934998,385000,450,,,,5
+91135273,https://www.idealista.com/inmueble/91135273/,Urb. Plaza de S. Miguel,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.3571865,-5.8501727,275000,140,True,2.0,True,4
+90816331,https://www.idealista.com/inmueble/90816331/,"Calle Arquitecto Tioda, 11",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.364715,-5.85899,123000,86,True,1.0,True,3
+90651631,https://www.idealista.com/inmueble/90651631/,"Avenida Valentín Masip, 30",Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3625368,-5.8628145,126467,97,True,1.0,True,3
+90372880,https://www.idealista.com/inmueble/90372880/,"Calle Aurora de Albornoz, 21",Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36663,-5.86825,84000,60,True,1.0,True,1
+88147561,https://www.idealista.com/inmueble/88147561/,,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3657312,-5.838406,44900,90,False,1.0,True,3
+90230645,https://www.idealista.com/inmueble/90230645/,,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3801786,-5.9194365,684900,458,,,,5
+89936931,https://www.idealista.com/inmueble/89936931/,Urb. Centro - escuela de Minas,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3628615,-5.8556977,60000,50,True,4.0,False,1
+89787591,https://www.idealista.com/inmueble/89787591/,Urb. ZONA MASIP,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,,,64000,85,True,2.0,True,2
+89685775,https://www.idealista.com/inmueble/89685775/,"Camino Real, 7",Barrio Colloto,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.376628,-5.803878,65000,79,False,3.0,True,3
+88854078,https://www.idealista.com/inmueble/88854078/,"Soto de Abajo, 56",Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3521387,-5.965604,29000,66,,2.0,True,2
+88399644,https://www.idealista.com/inmueble/88399644/,,,,,,,120000,104,True,4.0,True,4
+88262853,https://www.idealista.com/inmueble/88262853/,"Urb. Santullano , Los Prados",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3699573,-5.8362626,68000,68,True,5.0,True,2
+87952136,https://www.idealista.com/inmueble/87952136/,Urb. Centro - Calatrava,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35938,-5.86473,109000,120,True,5.0,True,4
+87849997,https://www.idealista.com/inmueble/87849997/,Urb. Zona Masip,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.365433,-5.864996,187000,100,True,5.0,True,4
+87589650,https://www.idealista.com/inmueble/87589650/,Urb. Centro - Fontan,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.361061,-5.848184,170000,150,True,3.0,True,5
+87412619,https://www.idealista.com/inmueble/87412619/,Calle Marqués de Teverga,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.361134,-5.856563,224990,163,True,2.0,True,4
+87340887,https://www.idealista.com/inmueble/87340887/,Urb. Centro - Fontán,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.357354,-5.848936,190000,115,True,2.0,True,3
+87275335,https://www.idealista.com/inmueble/87275335/,Calle Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.363538,-5.851452,210000,137,True,2.0,,5
+87147212,https://www.idealista.com/inmueble/87147212/,Urb. Plaza de la gesta,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.356767,-5.850734,150000,95,True,5.0,True,2
+87004252,https://www.idealista.com/inmueble/87004252/,,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3657611,-5.8533718,260000,152,True,1.0,True,4
+86808119,https://www.idealista.com/inmueble/86808119/,Urb. Palais,Barrio Cerdeño-El Palais-Mercadín,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3655353,-5.8219215,82000,75,True,4.0,True,2
+86198853,https://www.idealista.com/inmueble/86198853/,Urb. Casco Antiguo,Barrio Casco Histórico,Distrito Centro-Casco Histórico,Oviedo,43.3598062,-5.8452952,57000,45,False,1.0,True,1
+85485578,https://www.idealista.com/inmueble/85485578/,Urb. Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.360611,-5.863188,180000,105,True,3.0,True,3
+84563272,https://www.idealista.com/inmueble/84563272/,Urb. Parque San Francisco,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,,,325000,110,True,1.0,True,3
+83288814,https://www.idealista.com/inmueble/83288814/,Urb. Parque Invierno,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.35434,-5.8444999,85000,90,True,3.0,True,3
+82820115,https://www.idealista.com/inmueble/82820115/,Urb. Centro - Plaza américa,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,,,390000,210,True,2.0,True,5
+31254572,https://www.idealista.com/inmueble/31254572/,Urb. CALATRAVA-PLAZA LA PAZA,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.358662,-5.855965,210000,140,True,5.0,True,5
+91364865,https://www.idealista.com/inmueble/91364865/,Calle Río Sella,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,,,52000,72,True,4.0,,3
+91202234,https://www.idealista.com/inmueble/91202234/,,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.367197,-5.847622,149999,140,True,10.0,True,4
+91191256,https://www.idealista.com/inmueble/91191256/,"Calle Indalecio Prieto Tuero, 6 -2",Barrio El Postigo,Distrito Centro-Casco Histórico,Oviedo,43.3645316,-5.8436572,370000,120,True,2.0,True,4
+90906223,https://www.idealista.com/inmueble/90906223/,"los Prietos, 4 B",Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.340286,-5.848073,590000,600,,,,6
+90853926,https://www.idealista.com/inmueble/90853926/,"Calle juan antonio álvarez rabanal, 5",Urb. Juan antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,157200,87,True,14.0,,2
+87153682,https://www.idealista.com/inmueble/87153682/,"Calle Juan Antonio Álvarez Rabanal, 3",Urb. C/ Juan Antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,155800,87,True,14.0,,2
+90853923,https://www.idealista.com/inmueble/90853923/,"Calle juan antonio álvarez rabanal, 5",Urb. Juan antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,158400,87,True,13.0,,2
+87153681,https://www.idealista.com/inmueble/87153681/,"Calle Juan Antonio Álvarez Rabanal, 3",Urb. C/ Juan Antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,144100,80,True,12.0,,2
+90853918,https://www.idealista.com/inmueble/90853918/,"Calle juan antonio álvarez rabanal, 5",Urb. Juan antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,,,160000,87,True,12.0,,2
+90853905,https://www.idealista.com/inmueble/90853905/,"Calle juan antonio álvarez rabanal, 5",Urb. Juan antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,155400,87,True,9.0,,2
+87256773,https://www.idealista.com/inmueble/87256773/,"Calle Juan Antonio Álvarez Rabanal, 3",Urb. C/ Juan Antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,136700,86,True,1.0,,2
+90853903,https://www.idealista.com/inmueble/90853903/,"Calle juan antonio álvarez rabanal, 5",Urb. Juan antonio Alvarez Rabanal,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,43.37531,-5.83285,150800,98,True,1.0,,2
+82608758,https://www.idealista.com/inmueble/82608758/,Calle Manuel Pedregal,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3665,-5.850931,350000,174,True,5.0,True,4
+90755028,https://www.idealista.com/inmueble/90755028/,Calle Rosal,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3611541,-5.8465362,145000,88,True,1.0,False,3
+90399135,https://www.idealista.com/inmueble/90399135/,Calle de Marcos Peña Royo,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.361575,-5.865267,159800,123,True,1.0,True,4
+90313202,https://www.idealista.com/inmueble/90313202/,"Calle Piloña, 25",Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.351839,-5.862206,330000,125,True,1.0,True,3
+90132304,https://www.idealista.com/inmueble/90132304/,el monticu,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.352938,-5.841007,69300,70,True,1.0,True,3
+90116857,https://www.idealista.com/inmueble/90116857/,Calle Santiago de Compostela,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.374338,-5.857356,150000,75,True,3.0,True,2
+90046960,https://www.idealista.com/inmueble/90046960/,Calle San Melchor García Sampedro,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.354909,-5.838507,80000,78,True,2.0,,2
+89828808,https://www.idealista.com/inmueble/89828808/,Lugar Soto de Abajo,Urb. grupo santa teresa,Distrito San Claudio-Trubia-Las Caldas,Oviedo,43.35139,-5.96482,69000,95,,3.0,,3
+89943140,https://www.idealista.com/inmueble/89943140/,Avenida Valentín Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.36132,-5.863315,79800,65,True,2.0,False,2
+89328708,https://www.idealista.com/inmueble/89328708/,Calle González Besada,Urb. ZONA AUDITORIO,Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,43.357686,-5.855147,79000,105,True,2.0,True,3
+81222822,https://www.idealista.com/inmueble/81222822/,Ventura Rodríguez,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3619578,-5.8524721,490000,170,True,4.0,True,4
+88262943,https://www.idealista.com/inmueble/88262943/,Calle Gascona,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3633294,-5.8468105,65000,40,True,1.0,False,1
+86648014,https://www.idealista.com/inmueble/86648014/,Calle Severo Ochoa,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.358804,-5.857556,250000,122,True,5.0,True,3
+88466735,https://www.idealista.com/inmueble/88466735/,Calle Purita de la Riva,Barrio San Lazaro-Otero-Villafría,Distrito San Lazaro-Otero-Villafría,Oviedo,43.351759,-5.836377,129500,78,True,7.0,True,2
+87126362,https://www.idealista.com/inmueble/87126362/,Calle Roberto Frasinelli,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3704116,-5.8556429,99000,88,True,4.0,,3
+88063715,https://www.idealista.com/inmueble/88063715/,Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3668542,-5.8546042,220000,90,True,3.0,True,3
+82850994,https://www.idealista.com/inmueble/82850994/,Calle Granados,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.369104,-5.840039,70000,60,True,4.0,True,3
+86933524,https://www.idealista.com/inmueble/86933524/,Calle Covadonga,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.36607,-5.846735,178500,150,True,5.0,True,5
+86780896,https://www.idealista.com/inmueble/86780896/,"Calle Torrecerredo, 42",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37172,-5.85353,149900,80,True,4.0,True,2
+85760109,https://www.idealista.com/inmueble/85760109/,Calle Escultor Navascués,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.368409,-5.842615,90000,79,,1.0,True,3
+85754553,https://www.idealista.com/inmueble/85754553/,Calle Fuertes Acevedo,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3564026,-5.8717924,78000,68,True,2.0,True,2
+85616135,https://www.idealista.com/inmueble/85616135/,Calle Caveda,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.364946,-5.850039,290000,129,True,1.0,,3
+84646736,https://www.idealista.com/inmueble/84646736/,Covadonga,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3656671,-5.8494157,240000,115,True,4.0,True,3
+84401305,https://www.idealista.com/inmueble/84401305/,"Calle Uria, Oviedo",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.362256,-5.850287,379800,132,True,6.0,True,4
+84294829,https://www.idealista.com/inmueble/84294829/,"Calle San Pedro de Mestallón, Oviedo",Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.360151,-5.839149,129800,78,True,3.0,True,3
+82850948,https://www.idealista.com/inmueble/82850948/,Avenida Hermanos Menéndez Pidal,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3598323,-5.8584849,240000,150,True,2.0,,5
+82246898,https://www.idealista.com/inmueble/82246898/,Calle Augusto Junquera,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.371687,-5.8544901,35000,81,,5.0,True,3
+81604864,https://www.idealista.com/inmueble/81604864/,Plaza DE LOS FERROCARRILES,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3712272,-5.8465972,164800,68,True,6.0,True,2
+36704493,https://www.idealista.com/inmueble/36704493/,la moral,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.36099,-5.96444,73000,180,,,,3
+91520621,https://www.idealista.com/inmueble/91520621/,Calle Fray Ceferino,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.366083,-5.851194,159900,150,True,3.0,True,4
+90974387,https://www.idealista.com/inmueble/90974387/,"Calle Leopoldo Alas, 27",Barrio Auditorio-Seminario-Parque de Invierno,Distrito Centro-Casco Histórico,Oviedo,43.356337,-5.844069,75000,75,False,,True,2
+88601841,https://www.idealista.com/inmueble/88601841/,"Calle Asturias, 31",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.363919,-5.8561238,120000,98,True,8.0,,2
+91146723,https://www.idealista.com/inmueble/91146723/,,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.369558,-5.868052,180000,94,True,6.0,True,3
+91530359,https://www.idealista.com/inmueble/91530359/,Calle Fuente de la Plata,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3635427,-5.8758305,39000,90,False,2.0,False,3
+37938870,https://www.idealista.com/inmueble/37938870/,Calle Manuel Fernández Avello,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373461,-5.83844,85000,62,True,3.0,True,1
+91343099,https://www.idealista.com/inmueble/91343099/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.376979,-5.831672,103000,60,True,14.0,True,1
+91129747,https://www.idealista.com/inmueble/91129747/,,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3624373,-5.8542217,249999,100,True,5.0,True,3
+88057853,https://www.idealista.com/inmueble/88057853/,Urb. Jardines del Aramo,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3527376,-5.8604859,360000,122,True,7.0,True,3
+90371786,https://www.idealista.com/inmueble/90371786/,,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3599573,-5.8640061,419000,306,,,,4
+90156447,https://www.idealista.com/inmueble/90156447/,Calle Montes del Sueve,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3678773,-5.8565226,74500,45,True,1.0,True,1
+89358096,https://www.idealista.com/inmueble/89358096/,,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3477281,-5.8851166,440000,330,,,,7
+89036525,https://www.idealista.com/inmueble/89036525/,Calle Padre Suárez,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.3549236,-5.8447903,154000,91,True,5.0,True,3
+88649394,https://www.idealista.com/inmueble/88649394/,"Calle Rosal, 31 -13",Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.359593,-5.8474694,95000,52,True,4.0,True,1
+88461835,https://www.idealista.com/inmueble/88461835/,"Calle Santa Susana, 18",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.359391,-5.849767,160000,87,True,3.0,False,3
+88060097,https://www.idealista.com/inmueble/88060097/,Calle Alcalde López Mulero,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,,,78000,91,True,1.0,True,3
+87106136,https://www.idealista.com/inmueble/87106136/,Paraje Anieves s/n,Distrito La Manjoya-Parroquias Sur,Oviedo,"Área de Oviedo, Asturias",43.3253741,-5.7895622,800000,1.250,,,,5
+91286911,https://www.idealista.com/inmueble/91286911/,Calle de San Bernabé,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,,,125000,49,True,1.0,True,1
+90890401,https://www.idealista.com/inmueble/90890401/,Calle Fernando Villaamil,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3723539,-5.8394693,132000,85,True,5.0,True,3
+90601590,https://www.idealista.com/inmueble/90601590/,Calle Arroyo Vaqueros,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3847465,-5.8164031,105000,89,True,5.0,True,2
+90374893,https://www.idealista.com/inmueble/90374893/,Calle San Pedro de Mestallón,Barrio Santo Domingo-El Campillín,Distrito Centro-Casco Histórico,Oviedo,43.356884,-5.842035,83000,88,True,1.0,False,3
+90088010,https://www.idealista.com/inmueble/90088010/,"Calle Conde de Toreno, 3",Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.3629668,-5.851281,380000,145,True,5.0,True,3
+88823566,https://www.idealista.com/inmueble/88823566/,"Calle Soto del Barco, 9",Urb. EDIFICIO LAS TERRAZAS,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,43.367127,-5.876503,155000,84,True,1.0,True,2
+88817229,https://www.idealista.com/inmueble/88817229/,Calle Navia,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3671236,-5.8775975,124000,65,True,2.0,True,2
+88194485,https://www.idealista.com/inmueble/88194485/,"Calle Montes del Sueve, 14",Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3689375,-5.854938,171500,84,True,6.0,True,3
+87814777,https://www.idealista.com/inmueble/87814777/,Plaza de america,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3606038,-5.8575353,139990,72,True,5.0,True,2
+87755281,https://www.idealista.com/inmueble/87755281/,Paseo de la florida,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.36709,-5.869,85499,45,True,2.0,True,1
+91226046,https://www.idealista.com/inmueble/91226046/,,Barrio La Ería,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3619157,-5.8691555,179000,72,True,2.0,True,2
+81317914,https://www.idealista.com/inmueble/81317914/,"Facetos, 15",Urb. Zona Masip,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,43.3642188,-5.8657988,68000,77,True,2.0,True,3
+89331425,https://www.idealista.com/inmueble/89331425/,Calle General Yagüe,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.363016,-5.852284,365000,145,True,5.0,True,4
+87143621,https://www.idealista.com/inmueble/87143621/,Calle José Ramón Zaragoza,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3608,-5.861092,95000,70,True,4.0,False,2
+86954947,https://www.idealista.com/inmueble/86954947/,Cervantes,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3638981,-5.8547016,240000,100,True,6.0,False,2
+91462264,https://www.idealista.com/inmueble/91462264/,,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3678627,-5.8795923,155000,87,True,5.0,True,3
+91389896,https://www.idealista.com/inmueble/91389896/,,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,,,140000,129,True,6.0,,3
+91340172,https://www.idealista.com/inmueble/91340172/,,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3845766,-5.8239405,146000,134,True,3.0,,4
+89285909,https://www.idealista.com/inmueble/89285909/,Avenida Valentín Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3612291,-5.8603316,78000,60,True,1.0,True,2
+89414884,https://www.idealista.com/inmueble/89414884/,,,,,,,92000,43,True,3.0,True,1
+88655002,https://www.idealista.com/inmueble/88655002/,Calle Jesús,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3589819,-5.8441089,125000,60,True,1.0,,1
+88367182,https://www.idealista.com/inmueble/88367182/,Calle de Celestino Mendizábal,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3729341,-5.8419517,40000,40,False,2.0,True,2
+84911744,https://www.idealista.com/inmueble/84911744/,Calle Conde de Toreno,Barrio Parque San Francisco-Uría,Distrito Centro-Casco Histórico,Oviedo,43.362338,-5.8502169,375000,116,True,6.0,,2
+82314373,https://www.idealista.com/inmueble/82314373/,"Calle Fuertes Acevedo, Oviedo",Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.359194,-5.8716276,112000,97,True,5.0,True,3
+38112718,https://www.idealista.com/inmueble/38112718/,Avenida hermanos menéndez pidal,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,,,162000,115,True,4.0,,4
+37217863,https://www.idealista.com/inmueble/37217863/,Calle de argüelles,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3624753,-5.8477516,460000,200,True,4.0,,6
+91344637,https://www.idealista.com/inmueble/91344637/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3738791,-5.8320724,103000,60,True,15.0,True,1
+91344613,https://www.idealista.com/inmueble/91344613/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3764791,-5.8343724,121900,75,True,9.0,True,2
+91344625,https://www.idealista.com/inmueble/91344625/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3754791,-5.8323724,146800,75,True,14.0,True,2
+91344631,https://www.idealista.com/inmueble/91344631/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3740791,-5.8339724,138600,71,True,15.0,True,2
+91344611,https://www.idealista.com/inmueble/91344611/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3760791,-5.8334724,136700,81,True,1.0,True,2
+91233959,https://www.idealista.com/inmueble/91233959/,Calle Cudillero,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3657832,-5.872223,175000,98,True,1.0,True,3
+89858371,https://www.idealista.com/inmueble/89858371/,Urb. CENTRO- LONGORIA,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.364993,-5.848835,150000,80,True,1.0,True,2
+89689263,https://www.idealista.com/inmueble/89689263/,Urb. Centro Longoria,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.368374,-5.849562,125000,57,True,3.0,True,1
+89291901,https://www.idealista.com/inmueble/89291901/,Urb. MASIP,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3628299,-5.86411,136000,80,True,7.0,True,3
+88379643,https://www.idealista.com/inmueble/88379643/,Urb. Plaza de la Paz,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3535886,-5.8558786,109000,82,True,3.0,True,2
+87790891,https://www.idealista.com/inmueble/87790891/,,Barrio El Postigo,Distrito Centro-Casco Histórico,Oviedo,43.3635866,-5.8391372,180000,97,True,2.0,,3
+38368526,https://www.idealista.com/inmueble/38368526/,Urb. ZONA CALATRAVA,Barrio Buenavista,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.35496,-5.85841,104000,90,True,0.5,True,3
+87697238,https://www.idealista.com/inmueble/87697238/,,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3638464,-5.8445372,260000,120,True,5.0,True,3
+87261099,https://www.idealista.com/inmueble/87261099/,Urb. Centro Campoamor,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3636461,-5.8434862,79000,75,True,5.0,True,2
+83703063,https://www.idealista.com/inmueble/83703063/,,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3694158,-5.8223247,110000,76,True,4.0,,2
+89259626,https://www.idealista.com/inmueble/89259626/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3724888,-5.8341658,144000,109,True,1.0,True,3
+90941427,https://www.idealista.com/inmueble/90941427/,,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37131,-5.836948,85000,96,,2.0,,3
+87590492,https://www.idealista.com/inmueble/87590492/,"Calle Puerto de Leitariegos, 9",Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3716742,-5.8330258,46900,64,,1.0,True,2
+91257714,https://www.idealista.com/inmueble/91257714/,Calle Puerto del Ponton,Barrio Teatinos-Los Prados,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3703761,-5.8362425,65000,80,True,1.0,False,2
+91244475,https://www.idealista.com/inmueble/91244475/,,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373152,-5.844628,69000,80,True,1.0,False,3
+91222056,https://www.idealista.com/inmueble/91222056/,,Barrio Casco Histórico,Distrito Centro-Casco Histórico,Oviedo,43.3594283,-5.8452889,184000,110,True,5.0,True,4
+90228314,https://www.idealista.com/inmueble/90228314/,Urb. Centro - Fontan,Barrio Fontán,Distrito Centro-Casco Histórico,Oviedo,43.3593031,-5.8463362,145000,100,True,4.0,True,3
+90798447,https://www.idealista.com/inmueble/90798447/,Avenida del Cristo de las Cadenas,Barrio Montecerrao,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.354498,-5.8639594,69000,64,True,6.0,False,2
+90771397,https://www.idealista.com/inmueble/90771397/,Calle Lorenzo Abruñedo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.37107,-5.85549,65000,88,True,1.0,True,3
+90771190,https://www.idealista.com/inmueble/90771190/,Avenida Valentín Masip,Barrio Masip,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3633339,-5.8621417,77000,93,True,1.0,True,4
+90770931,https://www.idealista.com/inmueble/90770931/,Calle Tenderina Alta,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.364105,-5.8342876,66000,28,True,2.0,,1
+90340034,https://www.idealista.com/inmueble/90340034/,Calle Tenderina Baja,Barrio Ventanielles,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3655849,-5.8248439,58000,85,True,1.0,,3
+89414629,https://www.idealista.com/inmueble/89414629/,La media legua,Barrio Corredoría-La Carisa-Prado de La Vega,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3844751,-5.8140224,112000,92,True,2.0,True,3
+34656399,https://www.idealista.com/inmueble/34656399/,Calle gozon,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3682999,-5.8748882,142000,86,True,5.0,,2
+87697127,https://www.idealista.com/inmueble/87697127/,Menéndez Pelayo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3732307,-5.8558149,124000,90,True,6.0,,3
+31621703,https://www.idealista.com/inmueble/31621703/,Calle eduardo martínez torner,Barrio El Cristo,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3569882,-5.8606506,64000,50,True,4.0,True,1
+84649483,https://www.idealista.com/inmueble/84649483/,Calle Argañosa,Barrio Argañosa,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.3626483,-5.8652103,99000,80,True,4.0,,3
+82158014,https://www.idealista.com/inmueble/82158014/,Calle Augusto Junquera,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3731107,-5.8545031,115000,102,True,1.0,,3
+39472758,https://www.idealista.com/inmueble/39472758/,Calle Arquitecto Tioda,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.363246,-5.859946,45000,71,,3.0,,3
+90819812,https://www.idealista.com/inmueble/90819812/,,Barrio La Florida,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.364627,-5.878557,179999,98,True,1.0,True,3
+88411317,https://www.idealista.com/inmueble/88411317/,,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.3605897,-5.833907,44000,70,False,3.0,True,2
+83050225,https://www.idealista.com/inmueble/83050225/,,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3631898,-5.8501524,169900,92,True,7.0,True,3
+90405524,https://www.idealista.com/inmueble/90405524/,,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.359338,-5.845164,95000,45,True,6.0,False,1
+91485914,https://www.idealista.com/inmueble/91485914/,,Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3656588,-5.8494688,55000,48,True,0.5,False,1
+91390490,https://www.idealista.com/inmueble/91390490/,"Calle Fray Ceferino, 11",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3659536,-5.8521341,445000,180,True,3.0,True,7
+84915740,https://www.idealista.com/inmueble/84915740/,,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3615588,-5.8545378,250000,157,True,2.0,True,4
+89822930,https://www.idealista.com/inmueble/89822930/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.37496,-5.83187,69750,97,False,2.0,True,4
+89140902,https://www.idealista.com/inmueble/89140902/,"Calle Fray Ceferino, 9",Barrio Salesas-Foncalada-Campoamor,Distrito Centro-Casco Histórico,Oviedo,43.3657006,-5.852469,275000,124,True,4.0,True,4
+88865720,https://www.idealista.com/inmueble/88865720/,,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.366715,-5.86009,123000,102,True,2.0,True,3
+88865895,https://www.idealista.com/inmueble/88865895/,,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373,-5.82377,89400,73,True,3.0,True,3
+90505006,https://www.idealista.com/inmueble/90505006/,Calle de Joaquina Bobela,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.369408,-5.8451481,54000,50,True,4.0,True,2
+90148106,https://www.idealista.com/inmueble/90148106/,Menéndez Pelayo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.371223,-5.8543652,65000,75,True,3.0,False,2
+90147896,https://www.idealista.com/inmueble/90147896/,Calle Luis Braille,Barrio Milán-Pumarín,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3702368,-5.8403528,145000,92,True,3.0,True,2
+89740874,https://www.idealista.com/inmueble/89740874/,Calle Ronda,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.36421,-5.834,85000,75,True,3.0,True,2
+89406402,https://www.idealista.com/inmueble/89406402/,Fuente la Plata,Barrio Parque del Oeste,Distrito Buenavista-Ería-Montecerrao,Oviedo,43.364079,-5.8784684,43000,88,False,2.0,True,3
+89032497,https://www.idealista.com/inmueble/89032497/,Amsterdam,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.373732,-5.8324591,128000,80,True,2.0,True,2
+86759841,https://www.idealista.com/inmueble/86759841/,Calle Matemático Pedrayes,Barrio Plaza de América,Distrito Centro-Casco Histórico,Oviedo,43.3644048,-5.8555894,79000,60,True,1.0,False,2
+88814417,https://www.idealista.com/inmueble/88814417/,Plaza de la Puerta de Europa,Barrio HUCA-La Cadellada,Distrito Corredoría-Huca-Teatinos,Oviedo,43.3730292,-5.8314958,73600,40,True,7.0,True,1
+88143696,https://www.idealista.com/inmueble/88143696/,Avenida de Torrelavega,Barrio Fozaneldi-Tenderina,Distrito Fozaneldi-Tenderina-Ventanielles,Oviedo,43.365458,-5.8303605,63000,81,True,1.0,True,2
+82062347,https://www.idealista.com/inmueble/82062347/,Lorenzo abruñedo,Barrio Ciudad Naranco-Prados de La Fuente,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,43.3700321,-5.855042,53000,56,True,4.0,True,2
+86410598,https://www.idealista.com/inmueble/86410598/,Riera Caserio la,Distrito San Claudio-Trubia-Las Caldas,Oviedo,"Área de Oviedo, Asturias",43.3391387,-5.9847459,34000,56,,,,4
+33813961,https://www.idealista.com/inmueble/33813961/,Calle manuel del fresno,Barrio Vallobín,Distrito Ciudad Naranco-Vallobín-La Florida,Oviedo,,,129000,74,True,2.0,True,2
