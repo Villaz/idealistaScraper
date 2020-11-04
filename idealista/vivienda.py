@@ -1,5 +1,8 @@
 
 class Vivienda(object):
+    """
+    Clase Vivienda
+    """
 
     code = None
     link = None
@@ -17,6 +20,11 @@ class Vivienda(object):
     rooms = None
 
     def __init__(self, dictionary=None):
+        """
+        Inicializa la clase vivienda a partir de un diccionario
+        :param dictionary:
+        """
+
         if dictionary:
             self.code = dictionary['code'] if 'code' in dictionary else None
             self.link = dictionary['link'] if 'link' in dictionary else None
@@ -34,6 +42,10 @@ class Vivienda(object):
             self.rooms = dictionary['rooms'] if 'rooms' in dictionary else None
 
     def to_dict(self):
+        """
+        Retorna un diccionario con los datos de la vivienda.
+        :return:
+        """
         return {'code': self.code,
                 'link': self.link,
                 'address': self.address,
